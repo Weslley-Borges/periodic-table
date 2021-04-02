@@ -69,10 +69,6 @@ export const PeriodicTable = () => {
 		{tag:"Não_Metal", name: "Não Metais"},
 	]
 
-  elements.map((element: Element) => {
-    console.log(element.name.toUpperCase()+"\n\n"+element.desc+"\n\n\n")
-  })
-
 	return (
 		<div className="page-periodicTable">
 			<div className="wrapper">
