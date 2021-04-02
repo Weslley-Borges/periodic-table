@@ -69,6 +69,7 @@ export const PeriodicTable = () => {
 		{tag:"Não_Metal", name: "Não Metais"},
 	]
 
+	
 	return (
 		<div className="page-periodicTable">
 			<div className="wrapper">
