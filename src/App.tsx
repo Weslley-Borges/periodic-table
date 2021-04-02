@@ -57,16 +57,16 @@ export const PeriodicTable = () => {
 
 
 	const families = [
+		{tag:"Não_Metal", name: "Não Metais"},
+		{tag:"Gás_Nobre", name: "Gases Nobre"},
 		{tag:"Metal_Alcalino", name: "Metais Alcalinos"},
 		{tag:"Metal_Alcalino-terroso", name: "Metais Alcalino-terrosos"},
-		{tag:"Lantanídeos", name: "Lantanídeos"},
-		{tag:"Actinídeos", name: "Actinídeos"},
 		{tag:"Metal_de_Transição", name: "Metais de Transição"},
 		{tag:"Semimetal", name: "Semimetais"},
 		{tag:"Outros_Metais", name: "Outros Metais"},
-		{tag:"Gás_Nobre", name: "Gases Nobre"},
-		{tag:"Halogênio", name: "Halogênios"},
-		{tag:"Não_Metal", name: "Não Metais"},
+		{tag:"Lantanídeos", name: "Lantanídeos"},
+		{tag:"Actinídeos", name: "Actinídeos"},
+		{tag:"Halogênio", name: "Halogênios"}
 	]
 
 
