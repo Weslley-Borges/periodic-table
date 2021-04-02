@@ -1,0 +1,399 @@
+* {
+  margin: 0; padding: 0; box-sizing: border-box;
+  font-family: "verdana";
+}
+
+$bgColor: #101318;
+$gridGap: 5px;
+
+$alkaliMetalColor: #ecbe59;
+$alkalineEarthMetalColor: #dee955;
+$LantanídeosColor: #ec77a3;
+$ActinídeosColor: #c686cc;
+$transitionMetalColor: #fd8572;
+$postTransitionMetalColor: #4cddf3;
+$metalloidColor: #3aefb6;
+$otherNonmetalColor: #52ee61;
+$nobleGasColor: #759fff;
+$other_metals: #ff6262;
+
+body {
+  background: $bgColor
+}
+.page-periodicTable {
+  background: $bgColor;
+  width:100%;
+  height: 100%;
+  text-shadow: 0 0 0.4vw currentColor
+}
+
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  padding: 2%;
+
+  > input{
+    -webkit-appearance: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
+.periodic-table{
+  display: grid;
+  grid-gap: $gridGap;
+  grid-template-columns: repeat(18, 1fr);
+}
+
+
+//ELEMNTOS DA TABELA
+
+.element{
+  position: relative;
+  font-size: 0.5vw;
+  padding-bottom: 100%;
+  cursor: pointer;
+  color: #fff;
+  transition: 500ms;
+
+  .overlay{
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: $bgColor;
+    opacity: 0;
+    pointer-events: none;
+    transition: 500ms;
+  }
+  
+  .square{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border: 2px solid;
+    box-sizing: border-box;
+    background: $bgColor;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition-property: transform, z-index, left, right, top, bottom;
+    transition-duration: 100ms, 0ms, 200ms, 200ms, 200ms, 200ms;
+    transition-delay: 0ms, 100ms, 0ms, 0ms, 0ms, 0ms;
+  }
+
+  .atomic-number{
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 2px;
+  }
+
+  .label{
+    text-align: center;
+    transition: 200ms;
+  }
+
+  .symbol{
+    font-size: 1.7vw
+  }
+
+  .name{
+    font-size: 0.7vw
+  }
+
+  .atomic-mass{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 2px;
+    text-align: center;
+  }
+
+  .atomic-weight{
+    position: absolute;
+    right: 0;
+    top: 0;
+    list-style: none;
+    margin: 0;
+    padding: 2px;
+    opacity: 0;
+    transition: 200ms;
+    text-align: right;
+  }
+  
+  .model{
+    display: none;
+    position: absolute;
+    left: -500%;
+    right: -500%;
+    top: -500%;
+    bottom: -500%;
+    transform: scale(0.1);
+
+    .orbital{
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      border: 5px solid;
+      border-radius: 50%;
+      opacity: 0.25;
+
+      @for $i from 1 through 7{
+        &:nth-child(#{$i}){
+          margin: 10% + 5.5 * ($i - 1);
+          animation-duration: 40s - 6 * ($i - 1);
+        }
+      }
+      .electron{
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+
+        &::before{
+          content: "";
+          position: absolute;
+          left: calc(50% - 0.7vw);
+          top: -0.7vw;
+          width: 1.4vw;
+          height: 1.4vw;
+          background-color: currentColor;
+          border-radius: 50%;
+          opacity: 0.75;
+        };
+        @for $i from 1 through 32{
+          @for $a from 1 through $i{
+            &:nth-last-child(#{$i}):first-child ~ .electron:nth-child(#{$a}){
+              transform: rotate((360deg/$i)*($a - 1))
+            }
+          }
+        }
+      }
+    }
+  }
+  input[type="radio"]{
+    -webkit-appearance: none;
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    outline: none;
+
+    &.activate{
+      &:hover ~ .square{
+        z-index: 2;
+        transform: scale(1.35);
+        transition-delay: 0ms;
+        outline: none;
+        pointer-events: none;
+      }
+      &:checked + input[type="radio"].deactivate{
+        z-index: 3;
+        pointer-events: all;
+      }
+      &:checked ~ .overlay{
+        opacity: 0.75
+      }
+    }
+    &.deactivate{
+      position: fixed;
+      display: block;
+      z-index: 1;
+      opacity: 0;
+      pointer-events: none;
+
+      &:checked ~ .square{ z-index: 1 }
+    }
+  }
+}
+
+
+// PLACEHOLDER     
+.placeholder{
+  position: relative;
+  z-index: -1;
+  font-size: 1vw;
+  padding-bottom: 100%;
+  color: #fff;
+  transition: 500ms;
+
+  .square{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border: 2px solid;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.5;
+  }
+}
+
+
+// GAP     
+.gap{
+  position: relative;
+  padding-bottom: 100%;
+  transition: 500ms;
+
+  &::before{
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 0;
+    width: 50%;
+    height: calc(200% + #{$gridGap} * 2 - 4px);
+    border-width: 0 0 2px 2px;
+    border-style: solid;
+    margin-left: -1px;
+    color: #fff;
+    opacity: 0.2;
+  }
+}
+    
+
+
+// CORES DAS FAMÍLIAS DOS ELEMENTOS QUÍMICOS
+.Metal_Alcalino { color: $alkaliMetalColor }
+.Metal_Alcalino-terroso { color: $alkalineEarthMetalColor }
+.Lantanídeos { color: $LantanídeosColor }
+.Actinídeos { color: $ActinídeosColor }
+.Metal_de_Transição { color: $transitionMetalColor }
+.Outros_Metais { color: $other_metals }
+.Semimetal { color: $metalloidColor }
+.Não_Metal { color: $otherNonmetalColor }
+.Gás_Nobre { color: $nobleGasColor }
+.Halogênio { color: $postTransitionMetalColor}
+
+
+// lINHAS E COLUNAS 
+@for $i from 1 through 10{
+  .r#{$i}{
+    grid-row: $i
+  }
+}
+
+@for $i from 1 through 18{
+  .c#{$i}{
+    grid-column: $i
+  }
+}
+
+
+// SHIFT EDGE ELEMENTS ON ZOOM
+.r1 input[type="radio"].activate:checked ~ .square {
+  top: 100%
+}
+.r10 input[type="radio"].activate:checked ~ .square {
+  top: -100%
+}
+.c1 input[type="radio"].activate:checked ~ .square {
+  left: 100%
+}
+.c18 input[type="radio"].activate:checked ~ .square {
+  left: -100%
+}
+
+
+
+
+
+
+// CHAVES
+.key{
+  position: relative;
+  z-index: 1;
+  grid-row: 1;
+  grid-column-start: 3;
+  grid-column-end: 17;
+  font-size: 0.8vw;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  pointer-events: none;
+  user-select: none;
+
+  .row{
+    position: relative;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+    label {
+      opacity: 0.85;
+      cursor: pointer;
+      transition: 120ms;
+      pointer-events: all;
+
+      &:hover {
+        opacity: 1 !important;
+      }
+    }
+  }
+}
+
+
+.popup {
+  position: fixed;
+  z-index: 4;
+  width: 80%;
+  left: 10%;
+  top: 10%;
+  border-radius: 1rem;
+  background-color: #313131;
+  padding: 1rem;
+
+  display: flex;
+  flex-direction: column;
+
+  .content-img, .content-text {
+    margin-top: 1rem;
+  }
+  .content-img {
+    height: 100%;
+    width: 40%;
+    float:left;
+    align-items: center;
+    padding-right: 1rem;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .content-text {
+    color: yellow;
+    width: 60%;
+    float:left;
+    p {
+      color: white;
+      margin-top: 1rem;
+      font-size: 0.8rem;
+      text-shadow: none;
+    }
+  }
+}
