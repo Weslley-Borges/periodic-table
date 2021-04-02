@@ -69,7 +69,7 @@ export const PeriodicTable = () => {
 		{tag:"Não_Metal", name: "Não Metais"},
 	]
 
-	
+
 	return (
 		<div className="page-periodicTable">
 			<div className="wrapper">
@@ -128,8 +128,8 @@ export const PeriodicTable = () => {
               />
 						</div>
 						<div className="content-text">
-							<h4>{data.name} - {data.symbol}</h4>
-							<h5>Família: {data.family.replace("_"," ")}</h5>
+							<h4 className={data.family}>{data.name} - {data.symbol}</h4>
+							<h5 className={data.family}>Família: {data.family.replace("_"," ")}</h5>
 							<p>{data.desc}</p>
               <p>{data.uses}</p>
 						</div>
