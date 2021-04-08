@@ -356,10 +356,9 @@ body {
   }
 }
 
-
 .popup {
-  position: fixed;
-  z-index: 4;
+  z-index: 100;
+  position: absolute;
   width: 80%;
   left: 10%;
   top: 10%;
@@ -374,7 +373,6 @@ body {
     margin-top: 1rem;
   }
   .content-img {
-    height: 100%;
     width: 40%;
     float:left;
     align-items: center;
@@ -386,7 +384,7 @@ body {
   }
 
   .content-text {
-    color: yellow;
+    color: white;
     width: 60%;
     float:left;
     p {
@@ -394,6 +392,20 @@ body {
       margin-top: 1rem;
       font-size: 0.8rem;
       text-shadow: none;
+    }
+  }
+}
+
+
+@media(max-width: 800px) {
+  .popup {
+    flex-direction: row;
+    .content-img {
+      width: 60%;
+      align-self: center;
+    }
+    .content-text {
+      width: 90%
     }
   }
 }

@@ -8,6 +8,7 @@ interface Element {
 	name: string,
 	atomicMass: number
 	atomicWeight: Array<number>
+	class: string
 	family: string
 	position: Array<number>
 	formula: Array<string>
@@ -42,7 +43,8 @@ export const PeriodicTable = () => {
     name: "Hidrogênio",
     atomicMass: 1.008,
     atomicWeight: [ 1 ],
-    family: "Não_Metal",
+    class: "Hidrogênio",
+    family: "Hidrogênio",
     position: [ 1, 1 ],
     formula: [ "H" ],
 		image: "",
@@ -56,7 +58,7 @@ export const PeriodicTable = () => {
 	function closeModal() {setShowModal(false)}
 
 
-	const families = [
+	const classes = [
 		{tag:"Não_Metal", name: "Não Metais"},
 		{tag:"Gás_Nobre", name: "Gases Nobre"},
 		{tag:"Metal_Alcalino", name: "Metais Alcalinos"},
@@ -66,7 +68,7 @@ export const PeriodicTable = () => {
 		{tag:"Outros_Metais", name: "Outros Metais"},
 		{tag:"Lantanídeos", name: "Lantanídeos"},
 		{tag:"Actinídeos", name: "Actinídeos"},
-		{tag:"Halogênio", name: "Halogênios"}
+		{tag:"Halogênio", name: "Halogênios"},
 	]
 
 
@@ -107,7 +109,7 @@ export const PeriodicTable = () => {
 					</div>
 					<div className="gap c3 r8"></div>
 					<div className="key">
-						{families.map( (family) => {
+						{classes.map( (family) => {
 							return(
 								<div className="row">
 									<label className={family.tag} htmlFor={family.tag}>{family.name}</label>
@@ -129,7 +131,7 @@ export const PeriodicTable = () => {
 						</div>
 						<div className="content-text">
 							<h4 className={data.family}>{data.name} - {data.symbol}</h4>
-							<h5 className={data.family}>Família: {data.family.replace("_"," ")}</h5>
+							<h5 className={data.family}> { data.family == "Hidrogênio" ? "Hidrogênio": data.family.replace("_"," ")}</h5>
 							<p>{data.desc}</p>
               <p>{data.uses}</p>
 						</div>
