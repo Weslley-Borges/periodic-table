@@ -725,7 +725,7 @@
     "formula": [ "Te" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tellurium_crystal.jpg/230px-Tellurium_crystal.jpg",
     "desc": "O telúrio foi descoberto, no ano de 1782 ou 1783, num minério denominado calaverita por Franz Joseph Müller von Reichenstein, e isolado em 1798 por Martin Heinrich Klaproth. É usado principalmente em ligas metálicas e como semicondutor.\nO telúrio é um elemento relativamente raro, pertence a mesma família química do oxigênio, enxofre, selênio, e polônio, todos denominados calcogênios.Quando cristalino, o telúrio é branco-prateado, e quando na forma pura apresenta um brilho metálico. É um semimetal (metalóide), frágil e facilmente pulverizável. O telúrio amorfo pode ser obtido por precipitação de uma solução de ácido teluroso ou ácido telúrico. Entretanto, existem algumas controvérsias quanto ao fato deste telúrio ser realmente amorfo ou constituído de minúsculos cristais. O telúrio é um semicondutor do tipo que demonstra condutividade maior em determinadas direções, dependendo do alinhamento atômico.",
-    "uses": "d"
+    "uses": "O telúrio pode ser usado em ligas, principalmente com cobre ou aço inoxidável para melhorar a usinabilidade; pode ser adicionado ao chumbo para torná-lo mais resistente aos ácidos, melhorando a resistência e dureza, pode ser utilizado em CDs e DVDs regraváveis e como catalisador no refino do petróleo"
   },
   {
     "id": 53,
@@ -738,8 +738,8 @@
     "position": [ 17, 5 ],
     "formula": [ "I" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Iod_kristall.jpg/230px-Iod_kristall.jpg",
-    "desc": "O iodo é o segundo menos reativo e o menos eletronegativo de todos os elementos de seu grupo, atrás somente do Astato. É um oligoelemento, empregado principalmente na medicina, fotografia e como corante. O iodo é um sólido negro e lustroso, com leve brilho metálico, que sublima em condições normais formando um gás de coloração violeta e odor irritante. Igual aos demais halogênios forma um grande número de compostos com outros elementos, porém é o menos reativo do grupo, e apresenta certas características metálicas. A falta de iodo causa retardamento nas prolactinas.",
-    "uses": "d"
+    "desc": "O iodo é o segundo menos reativo e o menos eletronegativo de todos os elementos de seu grupo, atrás somente do astato. É um oligoelemento empregado, principalmente, na medicina, fotografia e como corante. O iodo é um sólido negro e lustroso, com leve brilho metálico, que sublima em condições normais formando um gás de coloração violeta e odor irritante. Similarmente aos demais halogênios, forma um grande número de compostos com outros elementos; porém, é o menos reativo do grupo, e apresenta certas características metálicas. É pouco solúvel em água, porém dissolve-se facilmente em substâncias orgânicas, como etanol, clorofórmio, CHCl3, em tetracloreto de carbono, CCl4, ou em dissulfeto de carbono, CS2, produzindo soluções de coloração violeta",
+    "uses": "O iodo é um micronutriente essencial para humanos e animais, o que significa que não é produzido pelo nosso organismo e deve ser obtido através de fontes externas. O iodo tem papel importante na produção dos hormônios da glândula tireoide. Sua falta pode causar doenças como bócio, hipotireoidismo, distúrbios mentais, depressão, dentre diversos sintomas."
   },
   {
     "id": 54,
@@ -752,8 +752,8 @@
     "position": [ 18, 5 ],
     "formula": [ "Xe" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Xenon-glow.jpg/250px-Xenon-glow.jpg",
-    "desc": "É um dos gases nobres, inodoro, muito pesado, incolor, encontrado como traço na atmosfera terrestre, e faz parte do primeiro composto de gás nobre sintetizado.\nFoi descoberto por William Ramsay e Morris Travers em 1898. A sua principal aplicação é na fabricação de dispositivos de emissores de luz como lâmpadas estroboscópicas, lâmpadas bactericidas e outros.\nO xenônio é um elemento membro do grupo dos gases nobres ou inertes. A palavra inerte já não é mais usada para descrever este grupo químico, dado que alguns elementos deste grupo formam compostos. Num tubo cheio de gás, o xenônio emite um bonito brilho azul quando excitado com uma descarga elétrica. Tem-se obtido xenônio metálico aplicando-lhe pressões de várias centenas de quilobares. O xenônio também pode formar solvatos com água, quando seus átomos ficam aprisionados na rede de moléculas de água.",
-    "uses": "d"
+    "desc": "É um dos gases nobres, inodoro, muito pesado, incolor, encontrado como traço na atmosfera terrestre, e faz parte do primeiro composto de gás nobre sintetizado. Foi descoberto por William Ramsay e Morris Travers, em 1898. O xenônio é um elemento membro do grupo dos gases nobres ou inertes. A palavra inerte já não é mais usada para descrever este grupo químico, dado que alguns elementos deste grupo formam compostos. Num tubo cheio de gás, o xenônio emite um bonito brilho azul quando excitado com uma descarga elétrica. Tem-se obtido xenônio metálico aplicando-lhe pressões de várias centenas de quilobares. O xenônio também pode formar solvatos com água, quando seus átomos ficam aprisionados na rede de moléculas de água.",
+    "uses": "A sua principal aplicação é a fabricação de dispositivos de emissores de luz como lâmpadas estroboscópicas, lâmpadas bactericidas e outros."
   },
   {
     "id": 55,
@@ -766,8 +766,8 @@
     "position": [ 1, 6 ],
     "formula": [ "Cs" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cesium.jpg/250px-Cesium.jpg",
-    "desc": "Trata-se de um metal alcalino macio de cor prateada-dourada, com um ponto de fusão de 28,44 °C (301,59 K), um dos únicos cinco metais elementares que se podem encontrar em estado líquido a temperatura ambiente. As suas propriedades físicas e químicas assemelham-se às do rubídio e às do potássio. É extremamente reactivo e pirofórico, reagindo com a água a temperaturas de até −116 °C (157,2 K). É o elemento químico menos electronegativo e só tem um isótopo estável, o césio-133. É obtido principalmente pela extracção do mineral polucita, enquanto que os seus radioisótopos, em especial o césio-137 que é um produto de fissão, é obtido dos resíduos produzidos pelos reactores nucleares.\n O isótopo radioactivo césio-137 apresenta uma meia-vida de cerca de 30 anos e é usado em aplicações médicas, industriais e hidrológicas. O elemento apresenta uma ligeira toxicidade, e é considerado um metal perigoso, portanto os seus radioisótopos apresentam um risco para a saúde se libertados no ambiente.",
-    "uses": "d"
+    "desc": "Trata-se de um metal alcalino macio, de cor prateada-dourada, com um ponto de fusão de 28,44 °C (301,59 K), um dos únicos cinco metais elementares que se pode encontrar em estado líquido, à temperatura ambiente. As suas propriedades físicas e químicas assemelham-se às do rubídio e às do potássio. É extremamente reativo e pirofórico, reagindo com a água a temperaturas de até −116 °C (157,2 K). É o elemento químico menos eletronegativo e só tem um isótopo estável, o césio-133. É obtido, principalmente, pela extração do mineral polucita, enquanto que os seus radioisótopos, em especial o césio-137, que é um produto de fissão, é obtido dos resíduos produzidos pelos reatores nucleares.",
+    "uses": "O isótopo radioativo césio-137 apresenta uma meia-vida de cerca de 30 anos, e é usado em aplicações médicas, industriais e hidrológicas. O elemento apresenta uma ligeira toxicidade, e é considerado um metal perigoso; portanto, os seus radioisótopos apresentam um risco para a saúde se libertados no ambiente."
   },
   {
     "id": 56,
@@ -780,8 +780,8 @@
     "position": [ 2, 6 ],
     "formula": [ "Ba" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Barium_unter_Argon_Schutzgas_Atmosph%C3%A4re.jpg/250px-Barium_unter_Argon_Schutzgas_Atmosph%C3%A4re.jpg",
-    "desc": "O bário é um elemento químico tóxico, macio, de aspecto prateado, com alto ponto de fusão pertencente a família dos metais alcalino terrosos.É encontrado no mineral barita, não sendo encontrado livre na natureza, devido a sua elevada reatividade. Os compostos deste metal são usados em pequenas quantidades para a produção de tintas e vidros. Também é usado foguetes pirotécnicos. Foi descoberto em 1808 pelo inglês Humphry Davy.\nO bário é um elemento metálico quimicamente semelhante ao cálcio, contudo é macio e, na forma pura, apresenta aspecto branco prateado semelhante ao chumbo. Este metal oxida-se muito facilmente quando exposto ao ar e é altamente reativo com água ou álcool. Alguns dos compostos de bário são notáveis pela elevada massa específica, como o sulfato de bário, BaSO4 (barita).\nO bário é usado principalmente em velas de ignição, tubos de vácuo, foguetes pirotécnicos, e em lâmpadas fluorescentes.",
-    "uses": "d"
+    "desc": "O bário é um elemento químico tóxico, macio, de aspecto prateado, com alto ponto de fusão pertencente à família dos metais alcalino-terrosos. É encontrado no mineral barita, não sendo encontrado livre na natureza, devido à sua elevada reatividade. Foi descoberto, em 1808, pelo inglês Humphry Davy. O bário é um elemento metálico quimicamente semelhante ao cálcio; contudo, é macio e, na forma pura, apresenta aspecto branco prateado, semelhante ao chumbo. Este metal oxida-se muito facilmente quando exposto ao ar, e é altamente reativo com água ou álcool. Alguns dos compostos de bário são notáveis pela elevada massa específica, como o sulfato de bário, BaSO4 (barita). O bário é usado, principalmente, em velas de ignição, tubos de vácuo, foguetes pirotécnicos, e em lâmpadas fluorescentes.",
+    "uses": "Os compostos deste metal são usados em pequenas quantidades para a produção de tintas e vidros. Também é usado em foguetes pirotécnicos."
   },
   {
     "id": 57,
@@ -794,8 +794,8 @@
     "position": [ 4, 9 ],
     "formula": [ "La" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lanthanum-2.jpg/250px-Lanthanum-2.jpg",
-    "desc": "O É encontrado principalmente em minerais terras raras associado com o cério.É dúctil e maleável usado principalmente em ligas para a produção de lentes especiais, pedras de isqueiros e como esponja de hidrogênio. Foi descoberto em 1839 por Carl Gustaf Mosander, em Estocolmo, Suécia.\nO lantânio é um elemento metálico branco prateado e é considerado frequentemente como sendo um lantanídio. Encontrado em alguns minerais, geralmente em combinação com cério e outros elementos terras raras. O lantânio é maleável, dúctil, e mole bastante para ser cortado com uma faca. É um dos mais reativos entre os elementos terras raras. O metal reage diretamente como os elementos carbono, nitrogênio, boro, selênio, silício, fósforo, enxofre, e com halogênios. Oxida rapidamente quanto exposto ao ar. A água fria ataca lentamente o lantânio, enquanto a água quente ataca muito mais rapidamente.",
-    "uses": "d"
+    "desc": "O lantânio encontrado principalmente em minerais terras raras, associado com o cério. Foi descoberto, em 1839, por Carl Gustaf Mosander, em Estocolmo, Suécia. O lantânio é um elemento metálico branco prateado e é considerado, frequentemente, como sendo um lantanídio. Encontrado em alguns minerais, geralmente em combinação com cério e outros elementos terras raras. O lantânio é maleável, dúctil, e mole bastante para ser cortado com uma faca. É um dos mais reativos entre os elementos terras raras. O metal reage diretamente como os elementos carbono, nitrogênio, boro, selênio, silício, fósforo, enxofre, e com halogênios. Oxida rapidamente, quanto exposto ao ar. A água fria ataca lentamente o lantânio, enquanto a água quente ataca muito mais rapidamente.",
+    "uses": "É usado, principalmente, em ligas para a produção de lentes especiais, pedras de isqueiros e como esponja de hidrogênio."
   },
   {
     "id": 58,
@@ -808,8 +808,8 @@
     "position": [ 5, 9 ],
     "formula": [ "Ce" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cerium2.jpg/250px-Cerium2.jpg",
-    "desc": "O cério é um elemento metálico da série transição interna (terra rara , lantanídio) encontrado principalmente nos minerais monazita e bastnasita. À temperatura ambiente, o cério encontra-se no estado sólido.\nÉ usado principalmente na forma de ligas para a produção de pedras de ignição de isqueiros e eletrodos de arco de grafite na indústria cinematográfica. O seu óxido é usado como catalisador em fornos auto-limpantes e na indústria do petróleo. O seu sulfato é um forte agente oxidante usado em análises químicas volumétricas.Foi descoberto em 1803 pelo sueco Jöns Jacob Berzelius.\nO cério é um elemento metálico prateado, pertencente a série química transição interna (terra rara, lantanídio). É usado em algumas ligas terras raras. Assemelha-se ao ferro na cor e no brilho, mas é macio, maleável e dúctil. Perde o lustre rapidamente em presença do ar.",
-    "uses": "d"
+    "desc": "O cério é um elemento metálico prateado da série transição interna (terra rara, lantanídio) encontrado, principalmente, nos minerais monazita e bastnasita. À temperatura ambiente, o cério encontra-se no estado sólido. O seu sulfato é um forte agente oxidante usado em análises químicas volumétricas. Foi descoberto, em 1803, pelo sueco Jöns Jacob Berzelius. Assemelha-se ao ferro na cor e no brilho, mas é macio, maleável e dúctil. Perde o lustre rapidamente em presença do ar.",
+    "uses": "É usado principalmente na forma de ligas para a produção de pedras de ignição de isqueiros e eletrodos de arco de grafite na indústria cinematográfica. O seu óxido é usado como catalisador em fornos autolimpantes e na indústria do petróleo."
   },
   {
     "id": 59,
@@ -822,8 +822,8 @@
     "position": [ 6, 9 ],
     "formula": [ "Pr" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Praseodymium.jpg/250px-Praseodymium.jpg",
-    "desc": "O praseodímio faz parte do grupo das terras raras, ocorrendo naturalmente nos minerais monazita e bastnasita. Foi isolado em 1885, pelo químico austríaco barão Carl Auer von Welsbach, a partir do didímio. O praseodímio é usado para produzir ligas metálicas de alta resistência térmica e mecânica utilizadas em componentes de motores de avião e de filamentos para lâmpadas de projetores cinematográficos. É também usado na produção de metal Misch para pedras de isqueiros.\nO praseodímio é um elemento metálico prateado, macio pertencente aos lantanídios. É mais resistente a corrosão no ar do que o európio, lantânio, cério ou o neodímio, porém desenvolve um óxido verde que reveste o metal quando exposto ao ar, expondo o metal ainda mais a oxidação. Por essa razão, o praseodímio deve ser armazenado imerso em óleo mineral ou selado em plástico ou vidro.",
-    "uses": "d"
+    "desc": "O praseodímio faz parte do grupo das terras raras (lantanídeos), ocorrendo naturalmente nos minerais monazita e bastnasita. Foi isolado, em 1885, pelo químico austríaco barão Carl Auer von Welsbach, a partir do didímio (mistura de praseodímio e neodímio). O praseodímio é um elemento metálico prateado, macio e mais resistente à corrosão no ar do que o európio, lantânio, cério ou o neodímio; porém, desenvolve um óxido verde que reveste o metal, quando em presença de ar, expondo o metal ainda mais a oxidação. Por essa razão, o praseodímio deve ser armazenado imerso em óleo mineral ou selado em plástico ou vidro.",
+    "uses": "O praseodímio é usado para produzir ligas metálicas de alta resistência térmica e mecânica, utilizadas em componentes de motores de avião e de filamentos para lâmpadas de projetores cinematográficos. É também usado na produção de metal Misch para pedras de isqueiros."
   },
   {
     "id": 60,
@@ -836,8 +836,8 @@
     "position": [ 7, 9 ],
     "formula": [ "Nd" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Neodymium2.jpg/250px-Neodymium2.jpg",
-    "desc": "O Neodímio representa cerca de 18% dos metais do grupo terra rara. O metal tem um brilho metálico, prateado, brilhante; entretanto, sendo um dos metais terra raras mais reativo, o neodímio escurece rapidamente no ar formando um óxido, que lascado expõe o metal a uma oxidação adicional.\n Alguns tipos de vidro contendo neodímio são usados para produzir rubis sintéticos utilizados em lasers. Certos materiais podem conter pequenas concentrações de íons de neodímio que poderão ser usados em lasers para radiações no infravermelho (1054 – 1064 nm). Alguns lasers de Nd são, por exemplo, o Nd: YAG (cristal de ítrio e alumínio) utilizado em odontologia e medicina, Nd: YLF (fluoreto de ítrio e lítio), Nd: YVO (vanadato de ítrio), e outros.",
-    "uses": "d"
+    "desc": "O neodímio (Nd) representa cerca de 18% dos metais do grupo terra rara. O metal tem um brilho metálico, prateado, brilhante; entretanto, sendo um dos metais terra raras mais reativo, o neodímio escurece rapidamente no ar formando um óxido, que lascado expõe o metal a uma oxidação adicional.",
+    "uses": "Certos materiais podem conter pequenas concentrações de íons de neodímio, que poderão ser usados em lasers para radiações no infravermelho (1054 – 1064 nm). Alguns lasers de Nd são, por exemplo, o Nd: YAG (cristal de ítrio e alumínio) utilizado em odontologia e medicina; Nd: YLF (fluoreto de ítrio e lítio); Nd: YVO (vanadato de ítrio) e outros."
   },
   {
     "id": 61,
@@ -850,8 +850,8 @@
     "position": [ 8, 9 ],
     "formula": [ "Pm" ],
     "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.sobVJMvQfFm3wLOlalO6dwAAAA%26pid%3DApi&f=1",
-    "desc": "O promécio (homenagem ao titã grego Prometeu) é um elemento químico de símbolo Pm e de número atómico igual a 61 (61 protões e 61 electrões), e massa atómica 145 u. À temperatura ambiente, o promécio encontra-se no estado sólido. Faz parte do grupo das terras raras. A principal aplicação é como emissor de radiações beta para produzir medidores de espessuras.A prova da existência do promécio só foi obtida em 1945 por Jacob A. Marinsky, Lawrence E. Glendenin e Charles D. Coryell durante a análise dos subprodutos da fissão do urânio.\nO promécio é um leve emissor de partículas betas, porém não emite radiações gama. Porém , pode ocorrer emissão de raios-X quando as partículas beta atingem elementos com números atômicos mais altos. Pouco é conhecido sobre as propriedades químicas e físicas do promécio metálico, porém são semelhantes ao neodímio e samário. O promécio apresenta duas variedades alotrópicas.\nSais deste metal apresentam luminescência na obscuridade com um fulgor azul ou acinzentado pálido devido à sua elevada radioatividade.",
-    "uses": "d"
+    "desc": "O promécio (homenagem ao titã grego Prometeu) é um elemento químico de símbolo Pm e de número atómico igual a 61 (61 protões e 61 electrões), e massa atómica 145 u. À temperatura ambiente, o promécio encontra-se no estado sólido. Faz parte do grupo das terras raras. A prova da existência do promécio só foi obtida em 1945 por Jacob A. Marinsky, Lawrence E. Glendenin e Charles D. Coryell durante a análise dos subprodutos da fissão do urânio. O promécio é um leve emissor de partículas beta, mas não emite radiações gama. Porém, pode ocorrer emissão de raios-X quando as partículas betas atingem elementos com números atômicos mais altos. Pouco é conhecido sobre as propriedades químicas e físicas do promécio metálico, porém são semelhantes ao neodímio e samário. O promécio apresenta duas variedades alotrópicas. Sais deste metal apresentam luminescência na obscuridade, com um fulgor azul ou acinzentado pálido, devido à sua elevada radioatividade.",
+    "uses": "A principal aplicação é como emissor de radiações beta para produzir medidores de espessuras."
   },
   {
     "id": 62,
@@ -864,8 +864,8 @@
     "position": [ 9, 9 ],
     "formula": [ "Sm" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Samarium_element.jpg/230px-Samarium_element.jpg",
-    "desc": "O samário é um elemento químico de símbolo Sm e de número atómico igual a 62 (62 protões e 62 electrões), com massa atómica 150,36 u. À temperatura ambiente, o samário encontra-se no estado sólido. É utilizado em lâmpadas de eletrodos de carbono na indústria cinematográfica. Foi descoberto pelo francês Lecoq de Boisbaudran em 1879.\nO samário é um metal terra rara , com brilho prateado brilhante, razoavelmente estável no ar. Inflama-se no ar a temperatura de 150 °C. Existem três estruturas cristalinas para o metal, ocorrendo as transformações nas temperaturas de 734 e 922 °C, respectivamente.",
-    "uses": "d"
+    "desc": "O samário é um elemento químico de símbolo Sm e de número atómico igual a 62 (62 protões e 62 electrões), com massa atómica 150,36 u. À temperatura ambiente, o samário encontra-se no estado sólido. Foi descoberto pelo francês Lecoq de Boisbaudran, em 1879. O samário é um metal terra rara, com brilho prateado brilhante, razoavelmente estável no ar. Inflama-se no ar a temperatura de 150 °C. Existem três estruturas cristalinas para o metal, ocorrendo as transformações nas temperaturas de 734 e 922 °C, respectivamente.",
+    "uses": "É utilizado em lâmpadas de eletrodos de carbono na indústria cinematográfica."
   },
   {
     "id": 63,
@@ -878,8 +878,8 @@
     "position": [ 10, 9 ],
     "formula": [ "Eu" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Europium.jpg/230px-Europium.jpg",
-    "desc": "O európio é branco prateado, bastante dúctil, e é o mais reativo das terras raras. Como elemento metálico apresenta, por enquanto, nenhuma aplicação. Entretanto, o seu óxido é usado em cinescópios de televisores em cores. O európio foi descoberto em 1901 por Eugène-Anatole Demarçay.\nO európio é o mais reativo dos elementos terras raras ; oxida-se rapidamente com o ar, e assemelha-se ao cálcio na sua reação com a água. Como outras terras raras ( a exceção do lantânio ), o európio inflama-se com o ar entre 150 °C e 180 °C, aproximadamente. Apresenta uma ductilidade muito alta e é aproximadamente tão duro quanto o chumbo.",
-    "uses": "d"
+    "desc": "O európio é branco prateado, bastante dúctil, e é o mais reativo das terras raras. Foi descoberto em 1901 por Eugène-Anatole Demarçay. O európio é o mais reativo dos elementos terras raras; oxida-se rapidamente com o ar, e assemelha-se ao cálcio na sua reação com a água. Como outras terras raras (a exceção do lantânio), o európio inflama-se com o ar entre 150 °C e 180 °C, aproximadamente. Apresenta uma ductilidade muito alta e é, aproximadamente, tão duro quanto o chumbo.",
+    "uses": "Como elemento metálico apresenta, por enquanto, nenhuma aplicação. Entretanto, o seu óxido é usado em cinescópios de televisores em cores."
   },
   {
     "id": 64,
@@ -892,8 +892,8 @@
     "position": [ 11, 9 ],
     "formula": [ "Gd" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gadolinium-4.jpg/230px-Gadolinium-4.jpg",
-    "desc": "O gadolínio é uma terra rara, branco prateado, maleável, dúctil com um brilho metálico. Cristaliza na forma hexagonal que é a forma alfa, à temperatura ambiente. Quando aquecido a 1508 K transforma-se na sua forma beta, que é uma estrutura cristalina cúbica de corpo centrado.\nAo contrário dos demais elementos terras raras, o gadolínio é relativamente estável no ar seco, porém perde o brilho rapidamente no ar úmido formando um óxido que adere frouxamente a superfície que, se for retirado, expõe a superfície a uma oxidação adicional. O gadolínio reage lentamente com a água e é solúvel em ácido diluído.\nO gadolínio tem a mais elevada secção de captura de nêutrons térmicos conhecido entre os elementos, 49,000 barns, porém tem uma rápida taxa de perda de efetividade , limitando utilidade como barras de controle em centrais de fissão nuclear.",
-    "uses": "d"
+    "desc": "O gadolínio é uma terra rara, branco prateado, maleável, dúctil com um brilho metálico. Cristaliza na forma hexagonal, que é a forma alfa, à temperatura ambiente. Quando aquecido a 1508 K transforma-se na sua forma beta, que é uma estrutura cristalina cúbica de corpo centrado. Ao contrário dos demais elementos terras raras, o gadolínio é relativamente estável no ar seco, porém perde o brilho rapidamente no ar úmido, formando um óxido que adere frouxamente a superfície que, se for retirado, expõe a superfície a uma oxidação adicional. O gadolínio reage lentamente com a água e é solúvel em ácido diluído.",
+    "uses": "O gadolínio tem a mais elevada secção de captura de nêutrons térmicos conhecido entre os elementos, 49,000 barns, porém tem uma rápida taxa de perda de efetividade, limitando sua utilidade como barras de controle em centrais de fissão nuclear."
   },
   {
     "id": 65,
@@ -906,8 +906,8 @@
     "position": [ 12, 9 ],
     "formula": [ "Tb" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Terbium-2.jpg/230px-Terbium-2.jpg",
-    "desc": "O térbio é um metal terra rara, cinza-prateado, que é maleável e dúctil . É macio o bastante para ser cortado com uma faca. É razoavelmente estável no ar, apresentando duas formas cristalinas com uma temperatura de transformação de 1289 °C.\nÉ usado em ligas metálicas para a produção de dispositivos eletrônicos e foi descoberto pelo químico sueco Carl Gustaf Mosander em 1843.",
-    "uses": "d"
+    "desc": "O térbio é um metal terra rara, cinza-prateado, que é maleável e dúctil. É macio o bastante para ser cortado com uma faca. É razoavelmente estável no ar, apresentando duas formas cristalinas com uma temperatura de transformação de 1289°C.",
+    "uses": " É usado em ligas metálicas para a produção de dispositivos eletrônicos, e foi descoberto pelo químico sueco Carl Gustaf Mosander, em 1843."
   },
   {
     "id": 66,
@@ -920,8 +920,8 @@
     "position": [ 13, 9 ],
     "formula": [ "Dy" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dy_chips.jpg/230px-Dy_chips.jpg",
-    "desc": "O disprósio é um elemento terra rara que apresenta brilho metálico prateado e é relativamente estável no ar em temperatura ambiente, porém se dissolve em ácidos minerais diluídos ou concentrados com liberação de hidrogênio, isto é, oxidando-se. É macio o bastante para ser cortado com uma faca, e pode ser processado com máquinas sem emitir faíscas, evitando o superaquecimento. As características do disprósio podem ser muito afetadas por pequenas quantidades de impurezas.\nO disprósio é usado, em conjunto com o vanádio e outros elementos, como componente de materiais para lasers. Este elemento foi identificado pela primeira vez em 1886, em Paris, pelo químico francês Paul Émile Lecoq de Boisbaudran.",
-    "uses": "d"
+    "desc": "O disprósio é um elemento terra rara que apresenta brilho metálico prateado e é relativamente estável no ar em temperatura ambiente, porém se dissolve em ácidos minerais diluídos ou concentrados, com liberação de hidrogênio, isto é, oxidando-se. É macio o bastante para ser cortado com uma faca, e pode ser processado com máquinas sem emitir faíscas, evitando o superaquecimento. As características do disprósio podem ser muito afetadas por pequenas quantidades de impurezas. Este elemento foi identificado pela primeira vez em 1886, em Paris, pelo químico francês Paul Émile Lecoq de Boisbaudran.",
+    "uses": "O disprósio é usado, em conjunto com o vanádio e outros elementos, como componente de materiais para lasers."
   },
   {
     "id": 67,
@@ -934,8 +934,8 @@
     "position": [ 14, 9 ],
     "formula": [ "Ho" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Holmium2.jpg/230px-Holmium2.jpg",
-    "desc": "É um elemento da série metal de transição interna do grupo dos lantanídios, relativamente macio e maleável, sólido, de aspecto branco prateado, resistente à corrosão no ar seco, em condições ambientais de temperatura. É uma terra rara encontrada nos minerais monazita e gadolinita.É usado como gerador de campos magnéticos, em reatores nucleares e na produção de lasers.\nFoi descoberto pelos químicos suíços Marc Delafontaine e Jacques-Louis Soret em 1878, quando observaram uma banda de absorção no espectro de um elemento até então desconhecido.",
-    "uses": "d"
+    "desc": "É um elemento da série metal de transição interna do grupo dos lantanídeos, relativamente macio e maleável, sólido, de aspecto branco prateado, resistente à corrosão no ar seco, em condições ambientais de temperatura. É uma terra rara encontrada nos minerais monazita e gadolinita. Foi descoberto pelos químicos suíços Marc Delafontaine e Jacques-Louis Soret em 1878, quando observaram uma banda de absorção no espectro de um elemento até então desconhecido.",
+    "uses": "É usado como gerador de campos magnéticos, em reatores nucleares e na produção de lasers."
   },
   {
     "id": 68,
@@ -948,8 +948,8 @@
     "position": [ 15, 9 ],
     "formula": [ "Er" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Erbium-crop.jpg/230px-Erbium-crop.jpg",
-    "desc": "O érbio é um elemento metálico trivalente que na forma pura é maleável, macio, relativamente estável no ar, não oxidando tão rapidamente quanto alguns outros metais terras raras. Seus sais são coloridos ( rosa ) , e o elemento tem faixas de absorção espectral no visível, ultravioleta e próximo do infravermelho que, associado com a sua configuração electrónica lhe confere cores pastéis muito bonitas. O seu sesquióxido é chamado de 'érbia' As propriedades do érbio dependem em grande parte das impurezas que contém.\nÉ usado em filtro fotográfico, dopante em amplificadores ópticos e seu óxido como pigmento para colorir vidros e esmaltes. Foi descoberto em 1843 pelo sueco Carl Gustaf Mosander, do mineral gadolinita de Ytterby. cidade da Suécia.",
-    "uses": "d"
+    "desc": "O érbio é um elemento metálico trivalente que, na forma pura, é maleável, macio, relativamente estável no ar, não oxidando tão rapidamente quanto alguns outros metais terras raras. Seus sais são coloridos (rosa), e o elemento tem faixas de absorção espectral no visível, ultravioleta e próximo do infravermelho que, associado com a sua configuração eletrônica, lhe confere cores pastéis muito bonitas. O seu sesquióxido é chamado de “érbia”. As propriedades do érbio dependem em grande parte das impurezas que contém. Foi descoberto, em 1843, pelo sueco Carl Gustaf Mosander, do mineral gadolinita de Ytterby. cidade da Suécia.",
+    "uses": "É usado em filtro fotográfico, dopante em amplificadores ópticos e seu óxido como pigmento para colorir vidros e esmaltes."
   },
   {
     "id": 69,
@@ -962,8 +962,8 @@
     "position": [ 16, 9 ],
     "formula": [ "Tm" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thulium_sublimed_dendritic_and_1cm3_cube.jpg/230px-Thulium_sublimed_dendritic_and_1cm3_cube.jpg",
-    "desc": "O túlio é um elemento do grupo dos lantanídios , sendo o menos abundante das terras raras. Seu metal é fácil de ser trabalhado, apresenta boa ductilidade, tem um brilho cinza prateado e pode ser cortado com uma faca. Apresenta uma certa resistência a corrosão quando no ar seco. O túlio natural é composto inteiramente de um único isótopo estável, o Tm-169.\nÉ encontrado com outros 'terras raras' no mineral monazita. Devido ao preço elevado, o túlio e seus compostos não apresentam, ainda, aplicação economicamente viável.",
-    "uses": "d"
+    "desc": "O túlio é um elemento do grupo dos lantanídeos, sendo o menos abundante das terras raras. Seu metal é fácil de ser trabalhado, apresenta boa ductilidade, tem um brilho cinza prateado e pode ser cortado com uma faca. Apresenta uma certa resistência a corrosão quando no ar seco. O túlio natural é composto inteiramente de um único isótopo estável, o Tm-169. É encontrado com outros “terras raras” no mineral monazita.",
+    "uses": "Devido ao preço elevado, o túlio e seus compostos não apresentam, ainda, aplicação economicamente viável."
   },
   {
     "id": 70,
@@ -976,8 +976,8 @@
     "position": [ 17, 9 ],
     "formula": [ "Yb" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ytterbium_element.jpg/230px-Ytterbium_element.jpg",
-    "desc": "O itérbio é um elemento metálico prateado e macio. É uma terra rara da série dos lantanídios que é encontrado nos minerais gadolinita, monazita e xenótimo. O itérbio se associa às vezes com o ítrio e outros elementos relacionados, e é usado em alguns aços. O itérbio natural é uma mistura de 7 isótopos estáveis. À temperatura ambiente encontra-se no estado sólido. Existem poucas aplicações para este elemento. Foi descoberto em 1878 por Jean Charles Galissard de Marignac. Seu metal pode ser usado para melhorar o refinamento dos grânulos;",
-    "uses": "d"
+    "desc": "O itérbio é um elemento metálico prateado e macio. É uma terra rara da série dos lantanídeos que é encontrado nos minerais gadolinita, monazita e xenótimo. O itérbio natural é uma mistura de 7 isótopos estáveis. À temperatura ambiente, encontra-se no estado sólido. Existem poucas aplicações para este elemento. Foi descoberto, em 1878, por Jean Charles Galissard de Marignac.",
+    "uses": "O itérbio se associa às vezes com o ítrio e outros elementos relacionados, e seu metal pode ser usado para melhorar o refinamento dos grânulos"
   },
   {
     "id": 71,
@@ -990,8 +990,8 @@
     "position": [ 18, 9 ],
     "formula": [ "Lu" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lutetium_sublimed_dendritic_and_1cm3_cube.jpg/230px-Lutetium_sublimed_dendritic_and_1cm3_cube.jpg",
-    "desc": "O lutécio faz parte do grupo das terras raras. Por ser um elemento muito caro, sua aplicação é limitada, entretanto, encontra alguns usos na indústria do petróleo.\nFoi descoberto em 1878 por Jean-Charles Marignac, mais tarde em 1907 um químico francês Georges Urbain conseguiu separar as impurezas da itérbia em dois outros compostos na tentativa de purificá-los para obter as características físicas e químicas do mesmo, mas sem muito sucesso, aos quais deu o nome de neoiterbia e lutércia, respectivamente chamados de itérbio e lutécio atualmente",
-    "uses": "d"
+    "desc": "O lutécio faz parte do grupo das terras raras. Foi descoberto, em 1878, por Jean-Charles Marignac. Mais tarde, em 1907, um químico francês Georges Urbain conseguiu separar as impurezas da itérbia em dois outros compostos, na tentativa de purificá-los para obter as características físicas e químicas do mesmo, mas sem muito sucesso, aos quais deu o nome de neoiterbia e lutércia, respectivamente chamados de itérbio e lutécio atualmente.",
+    "uses": "Por ser um elemento muito caro, sua aplicação é limitada. Entretanto, encontra alguns usos na indústria do petróleo. "
   },
   {
     "id": 72,
@@ -1004,8 +1004,8 @@
     "position": [ 4, 6 ],
     "formula": [ "Hf" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hafnium_ebeam_remelted.jpg/230px-Hafnium_ebeam_remelted.jpg",
-    "desc": "O háfnio é um metal de transição que pode formar ligas com o tungstênio usadas em filamentos de lâmpadas e em eletrodos. Também se usa como material de barras de controle de reatores nucleares devido a sua alta capacidade de absorção de nêutrons. Foi descoberto em 1923 por George de Hevesy e Dirk Coster.\n É  um metal dúctil, brilhante, prateado e resistente a corrosão, quimicamente muito similar ao zircônio. Estes dois elementos apresentam o mesmo número de elétrons na camada de valência e seus raios iônicos são muito similares devido a contração dos lantanídeos. Por isso é muito difícil separá-los, sendo encontrados na natureza juntos. As únicas aplicações para os quais é necessário separá-los são aquelas nas quais se utilizam as suas propriedades de absorção de nêutrons; em reatores nucleares.",
-    "uses": "d"
+    "desc": "O háfnio é um metal de transição que foi descoberto, em 1923, por George de Hevesy e Dirk Coster.  É um metal dúctil, brilhante, prateado e resistente a corrosão, quimicamente muito similar ao zircônio. Estes dois elementos apresentam o mesmo número de elétrons na camada de valência e seus raios iônicos são muito similares, devido à contração dos lantanídeos. Por isso, é muito difícil separá-los, sendo encontrados na natureza juntos.",
+    "uses": "O háfnio pode formar ligas com o tungstênio, usadas em filamentos de lâmpadas e em eletrodos. Também se usa como material de barras de controle de reatores nucleares, devido à sua alta capacidade de absorção de nêutrons."
   },
   {
     "id": 73,
@@ -1018,8 +1018,8 @@
     "position": [ 5, 6 ],
     "formula": [ "Ta" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tantalum_single_crystal_and_1cm3_cube.jpg/250px-Tantalum_single_crystal_and_1cm3_cube.jpg",
-    "desc": "Trata-se de um metal de transição raro, azul grisáceo, duro, que apresenta brilho metálico, cor meio acinzentada e resiste muito bem à corrosão. Na temperatura ambiente o tântalo encontra-se no estado sólido. É encontrado no mineral tantalita. Fisiologicamente inerte, de modo que, entre suas varias aplicações, pode ser empregado para a fabricação de instrumentos cirúrgicos e em implantes. Foi descoberto em 1802 por Anders Gustaf Ekeberg em minerais provenientes da Suécia e Finlândia e isolado por Jons Berzelius em 1820.\nO tântalo é um metal cinzento, denso, dúctil, muito duro, resistente a corrosão por ácidos e um bom condutor de calor e eletricidade. Em temperaturas abaixo de 150 °C o tântalo é quase completamente imune ao ataque químico, mesmo pela agressiva água régia. Somente é atacado pelo ácido fluorídrico, ácido que contem o íon fluoreto ou mediante fusão alcalina. O elemento tem o quinto maior ponto de fusão dos elementos conhecidos, perdendo apenas para o Ósmio, Rênio, Tungstênio e o Carbono. O tântalo tem a maior capacitância por volume entre todas as substâncias.",
-    "uses": "d"
+    "desc": "Trata-se de um metal de transição raro, azul grisáceo, duro, que apresenta brilho metálico, cor meio acinzentada e resiste muito bem à corrosão. Na temperatura ambiente, o tântalo encontra-se no estado sólido. É encontrado no mineral tantalita. Foi descoberto em 1802, por Anders Gustaf Ekeberg, em minerais provenientes da Suécia e Finlândia e isolado por Jons Berzelius em 1820. O tântalo é um metal cinzento, denso, dúctil, muito duro, resistente a corrosão por ácidos e um bom condutor de calor e eletricidade. Em temperaturas abaixo de 150 °C, o tântalo é quase completamente imune ao ataque químico, mesmo pela agressiva água régia. Somente é atacado pelo ácido fluorídrico, ácido que contém o íon fluoreto, ou mediante fusão alcalina. O elemento tem o quinto maior ponto de fusão dos elementos conhecidos, perdendo apenas para o ósmio, rênio, tungstênio e o carbono. O tântalo tem a maior capacitância por volume entre todas as substâncias.",
+    "uses": "Fisiologicamente inerte, de modo que, entre suas várias aplicações, pode ser empregado para a fabricação de instrumentos cirúrgicos e em implantes. "
   },
   {
     "id": 74,
@@ -1032,8 +1032,8 @@
     "position": [ 6, 6 ],
     "formula": [ "W" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wolfram_evaporated_crystals_and_1cm3_cube.jpg/250px-Wolfram_evaporated_crystals_and_1cm3_cube.jpg",
-    "desc": "O tungstênio é um metal de cor branco cinza sob condições padrão, quando não combinado, o tungstênio é encontrado na natureza apenas combinado com outros elementos. Foi identificado como um novo elemento em 1781, e isolado pela primeira vez como metal em 1783. Os seus minérios mais importantes são a volframita e a scheelita. O elemento livre é notável pela sua robustez, especialmente pelo fato de possuir o mais alto ponto de fusão de todos os metais e o segundo mais alto entre todos os elementos, a seguir ao carbono. Também notável é a sua alta densidade, 19,3 vezes maior do que a da água, comparável às do urânio e ouro, e muito mais alta (cerca de 1,7 vezes) que a do chumbo; O tungstênio com pequenas quantidades de impurezas é frequentemente frágil e duro, tornando-o difícil de trabalhar. Contudo, o tungstênio muito puro é mais dúctil, e pode ser cortado com uma serra de metais.",
-    "uses": "d"
+    "desc": "O tungstênio é um metal de cor branco cinza sob condições padrão, quando não combinado, o tungstênio é encontrado na natureza apenas combinado com outros elementos. Foi identificado como um novo elemento em 1781, e isolado pela primeira vez como metal, em 1783. Os seus minérios mais importantes são a volframita e a scheelita. O elemento livre é notável pela sua robustez, especialmente pelo fato de possuir o mais alto ponto de fusão de todos os metais e o segundo mais alto entre todos os elementos, depois do carbono. Também notável é a sua alta densidade, 19,3 vezes maior do que a da água, comparável às do urânio e ouro, e muito mais alta (cerca de 1,7 vezes) que a do chumbo.",
+    "uses": "O tungstênio com pequenas quantidades de impurezas é frequentemente frágil e duro, tornando-o difícil de trabalhar. Contudo, o tungstênio muito puro é mais dúctil, e pode ser cortado com uma serra de metais."
   },
   {
     "id": 75,
@@ -1046,8 +1046,8 @@
     "position": [ 7, 6 ],
     "formula": [ "Re" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rhenium_single_crystal_bar_and_1cm3_cube.jpg/250px-Rhenium_single_crystal_bar_and_1cm3_cube.jpg",
-    "desc": "O rênio é um metal de transição branco prateado, pesado, sólido na temperatura ambiente, raramente encontrado na natureza. É obtido como subproduto do processamento de minerais de molibdênio. É empregado principalmente em catalisadores. Sua descoberta nos minerais de platina e na columbita, na Alemanha, foi relatada por Walter Noddack, Ida Tacke e Otto Berg, em 1925.\nua forma comercial geralmente é em pó, porém pode ser obtido na forma compacta, com até 90% da sua densidade teórica. Quando é recozido torna-se muito dúctil, podendo ser dobrado em espiral ou anel. As ligas de rênio-molibdênio são supercondutores a 10K.",
-    "uses": "d"
+    "desc": "O rênio é um metal de transição branco prateado, pesado, sólido na temperatura ambiente, raramente encontrado na natureza. É obtido como subproduto do processamento de minerais de molibdênio. Sua descoberta nos minerais de platina e na columbita, na Alemanha, foi relatada por Walter Noddack, Ida Tacke e Otto Berg, em 1925. Sua forma comercial geralmente é em pó, porém pode ser obtido na forma compacta, com até 90% da sua densidade teórica. Quando é recozido, torna-se muito dúctil, podendo ser dobrado em espiral ou anel.",
+    "uses": "É empregado, principalmente, em catalisadores. As ligas de rênio-molibdênio são supercondutoras a 10K."
   },
   {
     "id": 76,
@@ -1060,8 +1060,8 @@
     "position": [ 8, 6 ],
     "formula": [ "Os" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Osmium_crystals.jpg/250px-Osmium_crystals.jpg",
-    "desc": "O ósmio é um elemento químico, símbolo Os, de número atômico 76 (76 prótons e 76 elétrons), com massa atómica 190,23 u. Trata-se de um metal de transição classificado no grupo da platina. À temperatura ambiente o ósmio encontra-se no estado sólido. Ambos ósmio ou irídio podem ser considerados os elementos mais densos. À temperatura e à pressão ambiente, a densidade calculada do ósmio é 22,61 g/cm3 e a densidade calculada do irídio é 22,65 g/cm3. No entanto, o valor medido experimentalmente (utilizando cristalografia de raios-x) para o ósmio é de 22,59 g/cm3, enquanto que a de irídio é de 22,56 g/cm3. Normalmente, o ósmio é o elemento mais denso.\nÉ empregado em algumas ligas com a platina e irídio. Uma liga de ósmio-irídio é usada em implantes cirúrgicos. O seu óxido é usado como oxidante e catalisador em sínteses químicas, e como pós-fixador biológico pela sua capacidade de impregnação em membranas celulares, auxiliando na visualização ultra-estrutural de tecidos em um microscópio eletrônico de transmissão.\nFoi descoberto em 1802 por Smithson Tennant analisando resíduos de platina.",
-    "uses": "d"
+    "desc": "O ósmio é um elemento químico, de símbolo Os, de número atômico 76 (76 prótons e 76 elétrons), com massa atómica 190,23 u. À temperatura ambiente o ósmio encontra-se no estado sólido. Ambos, ósmio ou irídio, podem ser considerados os elementos mais densos. À temperatura e à pressão ambiente, a densidade calculada do ósmio é 22,61 g.cm-3 e a densidade calculada do irídio é 22,65 g.cm-3. No entanto, o valor medido experimentalmente (utilizando cristalografia de raios-X) para o ósmio é de 22,59 g.cm-3, enquanto que a de irídio é de 22,56 g.cm-3. Foi descoberto em 1802, por Smithson Tennant analisando resíduos de platina.",
+    "uses": "É empregado em algumas ligas com a platina e irídio. Uma liga de ósmio-irídio é usada em implantes cirúrgicos. O seu óxido é usado como oxidante e catalisador em sínteses químicas, e como pós-fixador biológico pela sua capacidade de impregnação em membranas celulares, auxiliando na visualização ultra estrutural de tecidos em um microscópio eletrônico de transmissão."
   },
   {
     "id": 77,
@@ -1074,8 +1074,8 @@
     "position": [ 9, 6 ],
     "formula": [ "Ir" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Iridium-2.jpg/250px-Iridium-2.jpg",
-    "desc": "Trata-se de um metal de transição, duro, frágil, pesado, de cor branco prateado. É empregado em ligas de alta resistência que podem suportar elevadas temperaturas. É um elemento pouco abundante, encontrado na natureza associado ao ósmio e à platina, e muito resistente à corrosão. À temperatura ambiente, o irídio encontra-se no estado sólido. Ambos, ósmio ou irídio podem ser considerados os elementos mais densos. À temperatura e à pressão ambiente, a densidade calculada do ósmio é 22,61 g/cm3 e a densidade calculada do irídio é 22,65 g/cm3. No entanto, o valor medido experimentalmente (utilizando cristalografia de raios-x) para o ósmio é de 22,59 g/cm3, enquanto que a de irídio é de 22,56 g/cm3. Normalmente, o ósmio é o elemento mais denso.",
-    "uses": "d"
+    "desc": "Trata-se de um metal de transição, duro, frágil, pesado, de cor branco prateado. É empregado em ligas de alta resistência que podem suportar elevadas temperaturas. É um elemento pouco abundante, encontrado na natureza associado ao ósmio e à platina, e muito resistente à corrosão. À temperatura ambiente, o irídio encontra-se no estado sólido. À temperatura e à pressão ambiente, a densidade calculada do irídio é 22,65 g.cm-3. ",
+    "uses": "O isótopo irídio-192 é usado na radiografia gama para testes não destrutivo de metais; além de ter aplicação em certos tratamentos de câncer por braquiterapia"
   },
   {
     "id": 78,
@@ -1088,8 +1088,8 @@
     "position": [ 10, 6 ],
     "formula": [ "Pt" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Platinum_crystals.jpg/250px-Platinum_crystals.jpg",
-    "desc": "A platina é um elemento químico escasso, do qual se encontra em média na litosfera aproximadamente 5 μg/kg. Ela está especialmente nos depósitos dos minérios de níquel e cobre, principalmente na África do Sul, que responde por 80% da produção mundial. Por causa da sua escassez na crosta da Terra, já que são produzidas somente alguns milhões de toneladas, ela é considerada o metal mais caro e precioso.\nA platina é um precioso elemento químico com baixa reatividade. E tem uma extraordinária resistência à corrosão, inclusive sob altas temperaturas, e é também considerada um metal nobre. Consequentemente, a platina é geralmente descoberta pela produção de um fase da platina com outro elemento químico. Como a platina é encontrada naturalmente nos aluviões de diversos rios, ela foi utilizada pela primeira vez pelos nativos pré-colombianos da América do Sul para produzir artefatos. O seu primeiro registro na Europa data do Século XVI. Porém somente com Antonio de Ulloa vieram a conhecê-lo em 1735, porém só foi publicado à Europa em 1748.",
-    "uses": "d"
+    "desc": "A platina é um elemento químico escasso, do qual se encontra, em média, na litosfera, aproximadamente 5 μg/kg. Ela está especialmente nos depósitos dos minérios de níquel e cobre, principalmente na África do Sul, que responde por 80% da produção mundial. Por causa da sua escassez na crosta da Terra, já que são produzidas somente alguns milhões de toneladas, ela é considerada o metal mais caro e precioso. A platina é um precioso elemento químico com baixa reatividade. E tem uma extraordinária resistência à corrosão, inclusive sob altas temperaturas, e é também considerada um metal nobre. O seu primeiro registro na Europa data do Século XVI. Porém, só foi publicado em 1748.",
+    "uses": "Como a platina é encontrada naturalmente em aluviões de diversos rios, ela foi utilizada pela primeira vez pelos nativos pré-colombianos da América do Sul para produzir artefatos."
   },
   {
     "id": 79,
@@ -1102,8 +1102,8 @@
     "position": [ 11, 6 ],
     "formula": [ "Au" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/250px-Gold-crystals.jpg",
-    "desc": "O ouro (do latim aurum, 'brilhante') é um elemento químico (símbolo Au) de número atómico 79 (79 prótons e 79 eléctrons) e de massa atómica 197 u. Na natureza, o ouro é produzido a partir da colisão de duas estrelas de nêutrons. O ouro é utilizado de forma generalizada em joalharia, indústria e eletrônica, bem como reserva de valor.\nÉ um metal de transição brilhante, amarelo, denso, maleável, dúctil (trivalente e univalente) que não reage com a maioria dos produtos químicos, mas é sensível ao cloro e ao bromo. À temperatura ambiente, apresenta-se no estado sólido. Este metal encontra-se normalmente em estado puro, em forma de pepitas e depósitos aluviais, sendo um dos metais tradicionalmente usados para cunhar moeda. É tão facilmente manuseável e maleável que, com apenas um grama de ouro, é possível obter um fio de 3 quilômetros de extensão e 0,005 milímetros de diâmetro, ou uma lâmina quadrada de 70 centímetros de largura e espessura de 0,1 micrômetro.",
-    "uses": "d"
+    "desc": "O ouro (do latim aurum, 'brilhante') é um elemento químico (símbolo Au) de número atómico 79 (79 prótons e 79 elétrons) e de massa atómica 197 u. Na natureza, o ouro é produzido a partir da colisão de duas estrelas de nêutrons. O ouro é utilizado de forma generalizada em joalharia, indústria e eletrônica, bem como reserva de valor. É um metal de transição brilhante, amarelo, denso, maleável, dúctil (trivalente e univalente) que não reage com a maioria dos produtos químicos, mas é sensível ao cloro e ao bromo. À temperatura ambiente, apresenta-se no estado sólido. Este metal encontra-se, normalmente, em estado puro, em forma de pepitas e depósitos aluviais, sendo um dos metais tradicionalmente usados para cunhar moeda..",
+    "uses": "É tão facilmente manuseável e maleável que, com apenas um grama de ouro, é possível obter um fio de 3 quilômetros de extensão e 0,005 milímetros de diâmetro, ou uma lâmina quadrada de 70 centímetros de largura e espessura de 0,1 micrômetro. O ouro é um forte condutor de eletricidade, mas não é corrosível e tem baixa reatividade química. Por isso, é utilizado em contatos não-corrosíveis em circuitos elétricos."
   },
   {
     "id": 80,
@@ -1116,8 +1116,8 @@
     "position": [ 12, 6 ],
     "formula": [ "Hg" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/HGmer.JPG/250px-HGmer.JPG",
-    "desc": "O mercúrio é um elemento químico de número atômico 80 (80 prótons e 80 elétrons) e massa atómica 200,5 u. É um dos seis elementos que se apresentam líquidos à temperatura ambiente ou a temperaturas próximas. Os outros elementos são os metais césio, gálio, frâncio e rubídio e o não metal bromo. Dentre os seis, porém, apenas o mercúrio e o bromo são líquidos nas condições padrão de temperatura e pressão.\nO mercúrio pertence ao grupo (ou família) 12 (anteriormente chamada 2B) e faz parte da classe dos metais de transição. Tal grupo é ainda chamado família do zinco, na tabela periódica.\nNormalmente utilizado em instrumentos de medidas (termômetros e barômetros), lâmpadas fluorescentes e como catalisador em reações químicas.",
-    "uses": "d"
+    "desc": "O mercúrio é um elemento químico de número atômico 80 (80 prótons e 80 elétrons) e massa atómica 200,5 u. É um dos seis elementos que se apresentam líquidos à temperatura ambiente ou a temperaturas próximas. Os outros elementos são os metais césio, gálio, frâncio e rubídio, e o não metal bromo. Dentre os seis, porém, apenas o mercúrio e o bromo são líquidos nas condições padrão de temperatura e pressão. O mercúrio pertence ao grupo (ou família) 12 (anteriormente chamada 2B) e faz parte da classe dos metais de transição. Tal grupo é ainda chamado família do zinco, na tabela periódica.",
+    "uses": "Normalmente, é utilizado em instrumentos de medidas (termômetros e barômetros), lâmpadas fluorescentes e como catalisador em reações químicas."
   },
   {
     "id": 81,
@@ -1130,8 +1130,8 @@
     "position": [ 13, 6 ],
     "formula": [ "Tl" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Thallium_pieces_in_ampoule.jpg/250px-Thallium_pieces_in_ampoule.jpg",
-    "desc": "O tálio é altamente tóxico, por isso era usado como produto para matar ratos e insetos. Há indícios de que cause câncer em seres humanos. Atualmente é usado em detectores de radiação infravermelha, radiação gama, e em medicina nuclear. É encontrado e obtido a partir do mineral pirita e, também, é obtido como subproduto de minérios de chumbo e zinco. Foi descoberto por Sir William Crookes em 1861, na Inglaterra, por análise espectroscópica.\nEste metal é muito macio e maleável e pode ser cortado com uma faca. Quando exposto ao ar, inicialmente apresenta um brilho metálico, porém rapidamente torna-se cinza-azulado semelhante ao chumbo. Quando exposto ao ar, forma-se sobre o tálio uma camada de óxido, por isso, é preservado mantendo-o sob óleo mineral ou gás inerte, como o argônio.",
-    "uses": "d"
+    "desc": "O tálio é altamente tóxico, por isso era usado como produto para matar ratos e insetos. Há indícios de que cause câncer em seres humanos. É encontrado e obtido a partir do mineral pirita e, também, é obtido como subproduto de minérios de chumbo e zinco. Foi descoberto por Sir William Crookes, em 1861, na Inglaterra, por análise espectroscópica. Este metal é muito macio e maleável, e pode ser cortado com uma faca. Quando exposto ao ar, inicialmente apresenta um brilho metálico; porém, rapidamente torna-se cinza-azulado, semelhante ao chumbo. Quando exposto ao ar, forma-se sobre o tálio uma camada de óxido e, por isso, é preservado com manutenção sob óleo mineral ou gás inerte, como o argônio.",
+    "uses": "Atualmente, é usado em detectores de radiação infravermelha, radiação gama, e em medicina nuclear."
   },
   {
     "id": 82,
@@ -1144,8 +1144,8 @@
     "position": [ 14, 6 ],
     "formula": [ "Pb" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lead_electrolytic_and_1cm3_cube.jpg/250px-Lead_electrolytic_and_1cm3_cube.jpg",
-    "desc": "É um metal tóxico, denso, macio, maleável e mau condutor de eletricidade. Apresenta coloração branco-azulada quando recentemente cortado, porém adquire coloração acinzentada quando exposto ao ar. É usado na construção civil, baterias de ácido, em munição, proteção contra raios-X e raios gamma e forma parte de ligas metálicas para a produção de soldas, fusíveis, revestimentos de cabos elétricos, materiais antifricção, metais de tipografia, etc. O chumbo tem o número atômico mais elevado entre todos os elementos estáveis.\nÉ um metal conhecido e usado desde a antiguidade. Suspeita-se que este metal já fosse trabalhado há 7000 anos, utilizado pelos egípcios sendo parte de ligas metálicas devido suas características e pelos romanos como componentes de tintas e cosméticos.",
-    "uses": "d"
+    "desc": "É um metal tóxico, denso, macio, maleável e mau condutor de eletricidade. Apresenta coloração branco-azulada quando recentemente cortado, porém adquire coloração acinzentada quando exposto ao ar. O chumbo tem o número atômico mais elevado entre todos os elementos estáveis. É um metal conhecido e usado desde a antiguidade.",
+    "uses": "Suspeita-se que este metal já fosse trabalhado há 7000 anos, utilizado pelos egípcios, sendo parte de ligas metálicas, devido às suas características, e pelos romanos como componentes de tintas e cosméticos. Hoje em dia, é usado na construção civil, baterias de ácido, em munição, proteção contra raios-X e raios gama, e forma parte de ligas metálicas para a produção de soldas, fusíveis, revestimentos de cabos elétricos, materiais antifricção, metais de tipografia etc."
   },
   {
     "id": 83,
@@ -1158,8 +1158,8 @@
     "position": [ 15, 6 ],
     "formula": [ "Bi" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wismut_Kristall_und_1cm3_Wuerfel.jpg/270px-Wismut_Kristall_und_1cm3_Wuerfel.jpg",
-    "desc": "Este elemento é pesado, frágil, trivalente, cristalino, de coloração rosácea que se assemelha quimicamente ao arsênio e ao antimônio. É o mais diamagnético de todos os metais, e com a condutividade térmica mais baixa entre todos os elementos, exceto do mercúrio. De todos os metais, é o que menos conduz corrente elétrica.\nLigas metálicas com bismuto são utilizados em soldas, fabricação de termopares e dispositivos para detectar fogo. Compostos de bismuto, livres de chumbo, são usados em cosméticos e em procedimentos médicos.\nA existência deste metal foi demonstrado em 1753 pelo francês Claude Geoffroy Junine. O seu mineral mais importante é a bismutinita.",
-    "uses": "d"
+    "desc": "Este elemento é pesado, frágil, trivalente, cristalino, de coloração rosácea, que se assemelha quimicamente ao arsênio e ao antimônio. É o mais diamagnético de todos os metais, e com a condutividade térmica mais baixa entre todos os elementos, exceto do mercúrio. De todos os metais, é o que menos conduz corrente elétrica. A existência deste metal foi demonstrada em 1753, pelo francês Claude Geoffroy Junine. O seu mineral mais importante é a bismutinita.",
+    "uses": "Ligas metálicas com bismuto são utilizados em soldas, fabricação de termopares e dispositivos para detectar fogo. Compostos de bismuto, livres de chumbo, são usados em cosméticos e em procedimentos médicos."
   },
   {
     "id": 84,
@@ -1172,8 +1172,8 @@
     "position": [ 16, 6 ],
     "formula": [ "Po" ],
     "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Ed8-u246hzZC4-5c4c7k5gHaMF%26pid%3DApi&f=1",
-    "desc": "Este elemento é radioativo, dissolvendo-se facilmente em ácidos diluídos, porém só é levemente solúvel em álcalis. É quimicamente semelhante ao bismuto e ao telúrio, sendo mais eletropositivo que o telúrio e o selênio, elementos da mesma família.\nO polônio-210 é um metal volátil, de baixo ponto de fusão, por isso, 50% se evapora após 45 horas numa temperatura de 326 K. Este isótopo é emissor de partículas alfa que apresenta uma meia-vida de 138,39 dias. Um miligrama deste metalóide emite tantas partículas alfa quanto 5 gramas de rádio. Um único grama de polônio-210 gera 140 watts de energia térmica.\nO polônio quando misturado ou em liga com o berílio pode ser empregado como uma fonte de nêutrons.\nFoi descoberto por Pierre e Marie Curie, em 1898, e por isso tem nome homenageando a Polónia.",
-    "uses": "d"
+    "desc": "Este elemento é radioativo, dissolvendo-se facilmente em ácidos diluídos; porém, só é levemente solúvel em álcalis. É quimicamente semelhante ao bismuto e ao telúrio, sendo mais eletropositivo que o telúrio e o selênio, elementos da mesma família. O polônio-210 é um metal volátil, de baixo ponto de fusão; por isso, 50% se evapora após 45 horas, numa temperatura de 326 K. Este isótopo é emissor de partículas alfa e apresenta uma meia-vida de 138,39 dias. Um miligrama deste metaloide emite tantas partículas alfa quanto 5 gramas de rádio. Um único grama de polônio-210 gera 140 watts de energia térmica. Foi descoberto por Pierre e Marie Curie, em 1898, e por isso tem nome homenageando a Polônia.",
+    "uses": "O polônio, quando misturado ou em liga com o berílio, pode ser empregado como uma fonte de nêutrons."
   },
   {
     "id": 85,
@@ -1186,8 +1186,8 @@
     "position": [ 17, 6 ],
     "formula": [ "At" ],
     "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.q6I5UFe1HI4IEMirkaIu_AHaFl%26pid%3DApi&f=1",
-    "desc": "Este elemento altamente radioativo comporta-se quimicamente como os demais halogênios, especialmente como o iodo. O ástato tem caráter mais metálico que o iodo. Pesquisadores do Laboratório Nacional de Brookhaven identificaram as reações e as medidas elementares que envolvem o ástato. A maioria das características do ástato são conhecidos através dos seus isótopos sintéticos.\nO ástato tem importância somente no campo teórico e não é conhecida aplicação prática deste elemento, provavelmente por ele ser tão radioativo que vaporiza a si mesmo quando ajuntado em uma quantia apreciável.",
-    "uses": "d"
+    "desc": "Este elemento altamente radioativo comporta-se quimicamente como os demais halogênios, especialmente como o iodo. O astato tem caráter mais metálico que o iodo. Pesquisadores do Laboratório Nacional de Brookhaven identificaram as reações e as medidas elementares que envolvem o ástato. A maioria das características do astato são conhecidas através dos seus isótopos sintéticos.",
+    "uses": "O astato tem importância somente no campo teórico, e não é conhecida aplicação prática deste elemento, provavelmente por ele ser tão radioativo que vaporiza a si mesmo, quando ajuntado em uma quantia apreciável."
   },
   {
     "id": 86,
@@ -1200,8 +1200,8 @@
     "position": [ 18, 6 ],
     "formula": [ "Rn" ],
     "image": "https://sicflux.com.br/blog/wp-content/uploads/2019/11/Link01-1.png",
-    "desc": "É um elemento gasoso radioativo, enquadrado dentro dos chamados 'gases nobres'. Na forma gasosa, é incolor, inodoro e insípido; na forma sólida, tem cor avermelhada. Na tabela periódica, situa-se no grupo 18 (8A), com o número atômico 86 e símbolo Rn. A sua massa atômica é de 222, o que implica que tem por média 136 nêutrons. No estado neutro, possui o mesmo número de elétrons e de prótons, 86.\nFoi descoberto por Robert Bowie Owens e Ernest Rutherford em 1899. Ao contrário dos outros descendentes do urânio, o rádon é gasoso e pertence à família dos gases nobres, libertando-se dos solos e rochas, materiais de construção e água, sendo que no seu processo natural de decaimento emite partículas alfa, beta e gama. A radioatividade emitida pelo radão a que uma pessoa está exposta, em Portugal, segundo o ITN, equivale em média a 56,7% da radiação ionizante que essa pessoa está sujeita",
-    "uses": "d"
+    "desc": "É um elemento gasoso radioativo, enquadrado dentro dos chamados 'gases nobres'. Na forma gasosa, é incolor, inodoro e insípido; na forma sólida, tem cor avermelhada. Na tabela periódica, situa-se no grupo 18 (8A), com o número atômico 86 e símbolo Rn. A sua massa atômica é de 222, o que implica que tem por média 136 nêutrons. No estado neutro, possui o mesmo número de elétrons e de prótons, 86. Foi descoberto por Robert Bowie Owens e Ernest Rutherford, em 1899. Ao contrário dos outros descendentes do urânio, o radônio é gasoso e pertence à família dos gases nobres, libertando-se dos solos e rochas, materiais de construção e água, sendo que no seu processo natural de decaimento emite partículas alfa, beta e gama. ",
+    "uses": "O radônio pode ser usado na previsão de terremotos; a emissão de radônio natural pode sofrer variações que teriam potencial na previsão de um abalo sísmico. O decaimento radioativo do radônio, gerando polônio e partículas alfa seria algo de interesse para aplicação em terapias de combate ao câncer"
   },
   {
     "id": 87,
@@ -1217,8 +1217,8 @@
     "position": [ 1, 7 ],
     "formula": [ "Fr" ],
     "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.q9iPCeek-0Po51eVROpwTwAAAA%26pid%3DApi&f=1",
-    "desc": "O frâncio (em homenagem à França) é um elemento químico cujo símbolo é Fr e seu número atômico é 87. Sua eletronegatividade é a mais baixa conhecida e é o segundo elemento menos abundante na natureza (o primeiro é o astato). O frâncio é um metal alcalino altamente radioativo. Como todos os metais alcalinos, tem um elétron na sua camada de valência.\nMarguerite Perey descobriu este elemento em 1939. O frâncio foi o último elemento químico descoberto na natureza antes de ser sintetizado. Fora do laboratório, o frâncio é extremamente raro.\nNão há aplicações comerciais para o frâncio devido a sua vida muito curta, também não é possível obter este elemento em quantidades comerciais significativas.",
-    "uses": "d"
+    "desc": "O frâncio (em homenagem à França) é um elemento químico cujo símbolo é Fr e seu número atômico é 87. Sua eletronegatividade é a mais baixa conhecida e é o segundo elemento menos abundante na natureza (o primeiro é o astato). O frâncio é um metal alcalino altamente radioativo. Como todos os metais alcalinos, tem um elétron na sua camada de valência. Marguerite Perey descobriu este elemento, em 1939. O frâncio foi o último elemento químico descoberto na natureza antes de ser sintetizado. Fora do laboratório, o frâncio é extremamente raro.",
+    "uses": "Não há aplicações comerciais para o frâncio devido a sua vida muito curta, também não é possível obter este elemento em quantidades comerciais significativas."
   },
   {
     "id": 88,
@@ -1234,8 +1234,8 @@
     "position": [ 2, 7 ],
     "formula": [ "Ra" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radium226.jpg/200px-Radium226.jpg",
-    "desc": " É um metal altamente radioativo encontrado em minerais de urânio como na pechblenda. As suas aplicações são derivadas do seu caráter radioativo. FoiÉ o mais pesado dos metais alcalino-terrosos, é intensamente radioativo e assemelha-se quimicamente ao bário. Este metal é encontrado combinado em quantidades mínimas no minério de urânio pechblenda, e em vários outros minerais de urânio. É um emissor de partículas alfa, partículas beta e radiação gama. O rádio misturado com Berílio produz nêutrons. usado em medicina, porém substituído por radioisótopos mais eficientes. Foi descoberto por Marie Curie e seu marido Pierre em 1898 na pechblenda/uranita.\n",
-    "uses": "d"
+    "desc": "É um metal altamente radioativo, encontrado em minerais de urânio como na pechblenda. É o mais pesado dos metais alcalino-terrosos, é intensamente radioativo e assemelha-se quimicamente ao bário. Este metal é encontrado combinado em quantidades mínimas no minério de urânio pechblenda, e em vários outros minerais de urânio. É um emissor de partículas alfa, partículas beta e radiação gama. O rádio misturado com Berílio produz nêutrons. Foi descoberto por Marie Curie e seu marido Pierre, em 1898, na pechblenda/uranita.",
+    "uses": "É usado em medicina, porém substituído por radioisótopos mais eficientes."
   },
   {
     "id": 89,
@@ -1251,8 +1251,8 @@
     "position": [ 4, 10 ],
     "formula": [ "Ac" ],
     "image": "https://www.revistac2.com/c2/wp-content/uploads/2019/11/radio-pechblenda-300x296.jpg",
-    "desc": "É um elemento metálico, radioativo de aspecto prateado. Devido a sua intensa radioatividade brilha na escuridão com uma luz azulada. O isótopo Ac—227, que é encontrado em quantidades traços, em minerais de urânio, é um emissor de partículas alfa e partículas beta com um período de semidesintegração de 21,773 anos. Uma tonelada de mineral de urânio contém cerca de 0,1 gramas de actínio. Seu comportamento químico é muito similar aos demais terras raras, particularmente ao lantânio.\nSua radioatividade é da ordem de 150 vezes a do rádio, tornando-se útil como fonte de nêutrons. Além disso. não tem aplicações industriais significativas. O Ac-225 é empregado em medicina na produção de Bi-213 para radioterapia.",
-    "uses": "d"
+    "desc": "É um elemento metálico, radioativo, de aspecto prateado. Devido à sua intensa radioatividade, brilha na escuridão com uma luz azulada. O isótopo Ac-227, que é encontrado em quantidades traços, em minerais de urânio, é um emissor de partículas alfa e partículas beta, com um período de semidesintegração de 21,773 anos. Uma tonelada de mineral de urânio contém cerca de 0,1 gramas de actínio. Seu comportamento químico é muito similar aos demais terras raras, particularmente ao lantânio.",
+    "uses": "Sua radioatividade é da ordem de 150 vezes a do rádio, tornando-se útil como fonte de nêutrons. Além disso, não tem aplicações industriais significativas. O Ac-225 é empregado em medicina, na produção de Bi-213 para radioterapia."
   },
   {
     "id": 90,
@@ -1268,8 +1268,8 @@
     "position": [ 5, 10 ],
     "formula": [ "Th" ],
     "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.k-93fMe04HFwuXU7Hl5jAwAAAA%26pid%3DApi&f=1",
-    "desc": "O tório é um metal natural, ligeiramente radioativo. Quando puro, o tório é um metal branco prateado que mantém o seu brilho por diversos meses. Entretanto, em presença do ar, escurece lentamente tornando-se cinza ou, eventualmente, preto. O óxido de tório (ThO2), também chamado de 'tória', apresenta um dos pontos de ebulição mais elevados (3300 °C) de todos os óxidos. Quando aquecido no ar, o metal de tório inflama-se e queima produzindo uma luz branca brilhante. O tório extraído da Torita.\nO tório é uma potencial revolução energética em escala global. Reatores nucleares à base de tório, como o indiano KAMINI, além de extremamente mais eficientes que os baseados em urânio, produzem consideravelmente menos subprodutos. O rejeito destes reatores também representa menos riscos que o plutônio (rejeito do urânio) por não ser tão útil na fabricação de armas e por sua radiação decair mais rapidamente.",
-    "uses": "d"
+    "desc": "O tório é um metal natural, ligeiramente radioativo. Quando puro, o tório é um metal branco prateado que mantém o seu brilho por diversos meses. Entretanto, em presença do ar, escurece lentamente tornando-se cinza ou, eventualmente, preto. O óxido de tório (ThO2), também chamado de 'tória', apresenta um dos pontos de ebulição mais elevados (3300 °C) de todos os óxidos. Quando aquecido no ar, o metal de tório inflama-se e queima, produzindo uma luz branca brilhante. O tório é extraído da Torita. ",
+    "uses": "O tório tem potencial de revolução energética em escala global. Reatores nucleares à base de tório, como o indiano KAMINI, além de extremamente mais eficientes que os baseados em urânio, produzem consideravelmente menos subprodutos. O rejeito destes reatores também representa menos riscos que o plutônio (rejeito do urânio), por não ser tão útil na fabricação de armas e por sua radiação decair mais rapidamente."
   },
   {
     "id": 91,
@@ -1285,8 +1285,8 @@
     "position": [ 6, 10 ],
     "formula": [ "Pa" ],
     "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.12zoCrIYQiq0lVYX4NmwkwHaGS%26pid%3DApi&f=1",
-    "desc": "O protactínio é um elemento metálico prateado que pertence ao grupo dos actinídios, com lustre metálico brilhante que se conserva no ar por poucas horas. Torna-se um supercondutor em temperaturas abaixo de 1,4 K.\nNão existe atualmente nenhum uso para o protactínio fora do âmbito da pesquisa científica básica. Foi identificado pela primeira vez em 1913 por Kasimir Fajans e O. H. Göhring.",
-    "uses": "d"
+    "desc": "O protactínio é um elemento metálico prateado que pertence ao grupo dos actinídeos, com lustre metálico brilhante, que se conserva no ar por poucas horas. Torna-se um supercondutor em temperaturas abaixo de 1,4 K. Foi identificado pela primeira vez em 1913, por Kasimir Fajans e O. H. Göhring.",
+    "uses": "Não existe, atualmente, nenhum uso para o protactínio fora do âmbito da pesquisa científica básica"
   },
   {
     "id": 92,
@@ -1302,8 +1302,8 @@
     "position": [ 7, 10 ],
     "formula": [ "U" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Uranium2.jpg/247px-Uranium2.jpg",
-    "desc": "O urânio (homenagem ao planeta Urano), é um elemento químico de símbolo U e de massa atômica igual a 238 u, apresenta número atômico 92 (92 prótons e 92 elétrons), é um elemento natural e comum, muito mais abundante que a prata, abundância comparável à do molibdênio e arsênio, porém, quatro vezes menos abundante que o tório. À temperatura ambiente, o urânio encontra-se no estado sólido. É um elemento metálico radioativo pertencente à família dos actinídeos.",
-    "uses": "d"
+    "desc": "O urânio (homenagem ao planeta Urano), é um elemento químico de símbolo U e de massa atômica igual a 238 u, apresenta número atômico 92 (92 prótons e 92 elétrons). É um elemento natural e comum, muito mais abundante que a prata, abundância comparável à do molibdênio e arsênio, mas é quatro vezes menos abundante que o tório. À temperatura ambiente, o urânio encontra-se no estado sólido. É um elemento metálico radioativo, pertencente à família dos actinídeos.",
+    "uses": "O principal uso do urânio é como combustível nuclear; tanto em reatores empregados em pesquisa científica quanto nos utilizados para geração de energia elétrica"
     } ,
   {
     "id": 93,
@@ -1319,8 +1319,8 @@
     "position": [ 8, 10 ],
     "formula": [ "Np" ],
     "image": "https://theodoregray.com/periodictable/Samples/093.2/s12/01.JPG",
-    "desc": "O neptúnio ou netúnio (em homenagem ao planeta Netuno) é um elemento químico sintético de símbolo Np, com número atômico 93 (93 prótons e 93 elétrons). A sua massa atómica é 237,0482 u. À temperatura ambiente, o neptúnio encontra-se no estado sólido. É o quarto elemento da família dos actinídeos. É um elemento metálico, radioativo, prateado, pertencente à série dos elementos de transição interna, sendo o primeiro elemento transurânico sintético. Seu isótopo mais estável, Np-237, é um subproduto de reatores nucleares e produção de plutônio. Pode ser usado na composição de equipamentos para a detecção de nêutrons e como combustível nuclear. O primeiro isótopo de neptúnio foi sintetizado na Universidade da Califórnia, Berkeley por Edwin McMillan e Philip Abelson em 1940. O neptúnio é encontrado em minérios de urânio.",
-    "uses": "d"
+    "desc": "O neptúnio ou netúnio (em homenagem ao planeta Netuno) é um elemento químico sintético de símbolo Np, com número atômico 93 (93 prótons e 93 elétrons). A sua massa atómica é 237,0482 u. À temperatura ambiente, o neptúnio encontra-se no estado sólido. É o quarto elemento da família dos actinídeos. É um elemento metálico, radioativo, prateado, pertencente à série dos elementos de transição interna, sendo o primeiro elemento transurânico sintético. Seu isótopo mais estável, Np-237, é um subproduto de reatores nucleares e produção de plutônio. O primeiro isótopo de neptúnio foi sintetizado na Universidade da Califórnia, Berkeley por Edwin McMillan e Philip Abelson em 1940. O neptúnio é encontrado em minérios de urânio.",
+    "uses": "Pode ser usado na composição de equipamentos para a detecção de nêutrons e como combustível nuclear."
     } ,
   {
     "id": 94,
@@ -1336,8 +1336,8 @@
     "position": [ 9, 10 ],
     "formula": [ "Pu" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Plutonium_ring.jpg",
-    "desc": "O plutônio (em homenagem ao corpo celeste Plutão) é um elemento químico representado pelo símbolo Pu e de número atômico igual a 94 (94 protões e 94 electrões). À temperatura ambiente, o plutônio encontra-se no estado sólido. Pertencente a família dos actinídeos, é um metal de cor prateada-branca, que embaça em contato com o ar, formando um revestimento amorfo quando oxidado, radioativo, frágil e muito denso. Tem o maior número atômico dentre os elementos primordiais, é encontrado em poucas quantidades junto a minérios de urânio, sendo formado naturalmente por capturas neutrônicas de átomos de urânio.",
-    "uses": "d"
+    "desc": "O plutônio (em homenagem ao corpo celeste Plutão) é um elemento químico representado pelo símbolo Pu e de número atômico igual a 94 (94 protões e 94 electrões). À temperatura ambiente, o plutônio encontra-se no estado sólido. Pertencente à família dos actinídeos, é um metal de cor prateada-branca, que embaça em contato com o ar, formando um revestimento amorfo quando oxidado, radioativo, frágil e muito denso. Tem o maior número atômico dentre os elementos primordiais. É encontrado em poucas quantidades junto a minérios de urânio, sendo formado naturalmente por capturas neutrônicas de átomos de urânio.",
+    "uses": "Pode ser usado na fabricação de armas nucleares e de reatores nucleares"
     } ,
   {
     "id": 95,
@@ -1353,8 +1353,8 @@
     "position": [ 10, 10 ],
     "formula": [ "Am" ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Americium_microscope.jpg/626px-Americium_microscope.jpg",
-    "desc": "O amerício (nome dado em homenagem ao Continente Americano) é um elemento químico radioativo e transurânico com símbolo Am e número atômico 95. É um elemento actínio, localizado na tabela periódica abaixo do elemento európio, um lantanídio, e portanto por analogia, foi nomeado a partir de outro continente, a América. Amerício foi primeiramente produzido em 1944 pelo grupo de Glenn T. Seaborg na Universidade da Califórnia, Berkeley. Embora ele seja o terceiro elemento da série transurânica, ele foi o quarto a ser descoberto, depois do elemento cúrio que possui maior número atômico. A descoberta foi mantida em segredo e só foi liberada para o público em novembro de 1945. A maioria do amerício é produzida bombardeando urânio ou plutônio com nêutrons em reatores nucleares.",
-    "uses": "d"
+    "desc": "O amerício (nome dado em homenagem ao Continente Americano) é um elemento químico radioativo e transurânico, com símbolo Am e número atômico 95. É um elemento actinídeo, localizado na tabela periódica abaixo do elemento európio, que é um lantanídio; portanto, por analogia, foi nomeado a partir de outro continente: a América. Amerício foi primeiramente produzido em 1944, pelo grupo de Glenn T. Seaborg, na Universidade da Califórnia, Berkeley. Embora ele seja o terceiro elemento da série transurânica, ele foi o quarto a ser descoberto, depois do elemento cúrio, que possui maior número atômico. A descoberta foi mantida em segredo e só foi liberada para o público em novembro de 1945. A maioria do amerício é produzida bombardeando urânio ou plutônio com nêutrons, em reatores nucleares.",
+    "uses": "Além de ser usado como fonte de ionização em detectores de fumaça, tem potencial para uso como fonte de energia em termogeradores para sondas espaciais"
     } ,
   {
     "id": 96,
@@ -1370,8 +1370,8 @@
     "position": [ 11, 10 ],
     "formula": [ "Cm" ],
     "image": "https://i.pinimg.com/originals/04/ae/6d/04ae6da7fa42644c3ced5ad8954732cf.jpg",
-    "desc": "O cúrio (nomeado em homenagem ao casal Pierre e Marie Curie) é um elemento químico de símbolo Cm, de número atômico 96 (96 prótons e 96 elétrons) com massa atômica 247 u. É um elemento metálico, sintético, transurânico, do grupo dos actinídeos. Foi descoberto em 1944 por uma equipe de estadunidenses composta por Glenn Seaborg, Ralph James, e Albert Ghiorso, produzido pelo bombardeamento do plutônio com partículas alfa. O cúrio-242 e o cúrio-244 podem ser utilizados como fontes de energia portátil, em marcapassos e instrumentos de localização remotos. O cúrio é um metal prateado-branco com o ponto de fusão de 1340 °C [2400 °F] e uma densidade de 13,5 g por centímetro cúbico.",
-    "uses": "d"
+    "desc": "O cúrio (nomeado em homenagem ao casal Pierre e Marie Curie) é um elemento químico de símbolo Cm, de número atômico 96 (96 prótons e 96 elétrons) com massa atômica 247 u. É um elemento metálico, sintético, transurânico, do grupo dos actinídeos. Foi descoberto em 1944, por uma equipe de estadunidenses, composta por Glenn Seaborg, Ralph James, e Albert Ghiorso, e foi produzido pelo bombardeamento do plutônio com partículas alfa. O cúrio é um metal prateado-branco com o ponto de fusão de 1340 °C [2400 °F] e uma densidade de 13,5 g por centímetro cúbico.",
+    "uses": "O cúrio-242 e o cúrio-244 podem ser utilizados como fontes de energia portátil, em marcapassos e instrumentos de localização remotos. "
     } ,
   {
     "id": 97,
@@ -1387,8 +1387,8 @@
     "position": [ 12, 10 ],
     "formula": [ "Bk" ],
     "image": "https://tn8.tv/media/cache/91/4b/914bf5564c380ccd1e9603e5c91cb276.jpg",
-    "desc": "O berquélio ou berkélio (em homenagem à cidade estadunidense de Berkeley) é um elemento químico de símbolo Bk, número atômico 97 (97 prótons e 97 elétrons) que apresenta massa atómica igual a [247] u. É um elemento metálico, sintético, transurânico, pertencente ao grupo dos actinídeos na tabela periódica dos elementos. O berquélio-243 foi o primeiro isótopo sintetizado deste elemento. A descoberta ocorreu na Universidade da Califórnia, Berkeley por uma equipe estadunidense em 1949, bombardeando o amerício-241 com partículas alfa. Até o momento, fora da pesquisa científica, o berquélio não apresenta nenhuma aplicação comercial.",
-    "uses": "d"
+    "desc": "O berquélio ou berkélio (em homenagem à cidade estadunidense de Berkeley) é um elemento químico de símbolo Bk, número atômico 97 (97 prótons e 97 elétrons), que apresenta massa atômica igual a [247] u. É um elemento metálico, sintético, transurânico, pertencente ao grupo dos actinídeos na tabela periódica dos elementos. O berquélio-243 foi o primeiro isótopo sintetizado deste elemento. A descoberta ocorreu na Universidade da Califórnia, Berkeley, por uma equipe estadunidense, em 1949, bombardeando o amerício-241 com partículas alfa.",
+    "uses": "Até o momento, fora da pesquisa científica, o berquélio não apresenta nenhuma aplicação comercial."
     } ,
   {
     "id": 98,
@@ -1404,8 +1404,8 @@
     "position": [ 13, 10 ],
     "formula": [ "Cf" ],
     "image": "https://i.imgur.com/U8SRmGg.png",
-    "desc": "O califórnio (homenagem ao Estado e à Universidade da Califórnia) é um elemento químico de símbolo Cf, número atômico 98 (98 prótons e 98 elétrons) e de massa atómica igual a [251] u. É um elemento metálico, sintético, transurânico, sólido, provavelmente de aspecto prateado, encontrado no grupo dos actinídeos da tabela periódica dos elementos. Foi descoberto em 1950 por uma equipe de pesquisadores estadunidense na Universidade da Califórnia, Berkeley, bombardeando o elemento cúrio com partículas alfa. O seu principal uso é como fonte de nêutrons para a análise do solo terrestre ou de outros planetas através de sondas espaciais. É o metal mais caro que pode ser comprado, custando aproximadamente US$ 25 milhões o grama e só pode ser comprado por uma organização internacional.",
-    "uses": "d"
+    "desc": "O califórnio (homenagem ao Estado e à Universidade da Califórnia) é um elemento químico de símbolo Cf, número atômico 98 (98 prótons e 98 elétrons) e de massa atômica igual a [251] u. É um elemento metálico, sintético, transurânico, sólido, provavelmente de aspecto prateado, encontrado no grupo dos actinídeos da tabela periódica dos elementos. Foi descoberto, em 1950, por uma equipe de pesquisadores estadunidense na Universidade da Califórnia, Berkeley, bombardeando o elemento cúrio com partículas alfa. É o metal mais caro que pode ser comprado, custando, aproximadamente, US$ 25 milhões o grama, e só pode ser comprado por uma organização internacional.",
+    "uses": "O seu principal uso é como fonte de nêutrons para a análise do solo terrestre ou de outros planetas, por meio de sondas espaciais."
     } ,
   {
     "id": 99,
@@ -1421,8 +1421,8 @@
     "position": [ 14, 10 ],
     "formula": [ "Es" ],
     "image": "https://www.minasjr.com.br/wp-content/uploads/2019/09/uranio.png",
-    "desc": "O einstênio (nome dado em homenagem a Albert Einstein) é um elemento químico de símbolo Es, número atômico 99 (99 prótons e 99 elétrons) e com massa atômica [252] u. É um elemento metálico, transurânico e radioactivo, pertencente ao grupo dos actinídeos (sétimo da série). O elemento foi identificado pelo grupo de pesquisa formado por G. R. Choppin, A. Ghiorso, B. G. Harvey e C. G. Thompson nos destroços deixados pela explosão da primeira bomba de hidrogênio, em 1952. Quantidades da ordem das miligramas só se tornaram disponíveis depois de 1961. Seu isotopo mais comum é o 253Es é produzido em maiores quantidades usando reatores nucleares de alta potencia a partir do decaimento beta de califórnio-253. Não são conhecidos usos comerciais deste elemento, ate agora amostras de einstênio só foram utilizados na produção de elementos mais pesados em laboratório. Como todos os elementos sintéticos transurânicos, isotopos de einstênio são altamente radioativos e muito perigosos à saúde.",
-    "uses": "d"
+    "desc": "O einstênio (nome dado em homenagem a Albert Einstein) é um elemento químico de símbolo Es, número atômico 99 (99 prótons e 99 elétrons) e com massa atômica [252] u. É um elemento metálico, transurânico e radioativo, pertencente ao grupo dos actinídeos (sétimo da série). O elemento foi identificado pelo grupo de pesquisa formado por G. R. Choppin, A. Ghiorso, B. G. Harvey e C. G. Thompson, nos destroços deixados pela explosão da primeira bomba de hidrogênio, em 1952. Quantidades da ordem de miligramas só se tornaram disponíveis depois de 1961. Seu isótopo mais comum é o 253. Ele é produzido em maiores quantidades usando reatores nucleares de alta potência, a partir do decaimento beta de califórnio-253.",
+    "uses": "Não são conhecidos usos comerciais deste elemento. Até agora, amostras de einstênio só foram utilizados na produção de elementos mais pesados em laboratório. Como todos os elementos sintéticos transurânicos, isótopos de einstênio são altamente radioativos e muito perigosos à saúde."
     } ,
   {
     "id": 100,
@@ -1438,8 +1438,8 @@
     "position": [ 15, 10 ],
     "formula": [ "Fm" ],
     "image": "https://images-of-elements.com/s/fermium.jpg",
-    "desc": "O férmio (em homenagem a Enrico Fermi) é um elemento químico sintético, de símbolo Fm, número atômico 100 (100 prótons e 100 elétrons) com massa atómica [257] u. É radioativo, metálico, transurânico, e faz parte do grupo dos actinídeos. Foi descoberto em 1955 por uma equipe liderada por Albert Ghiorso. É produzido pelo bombardeamento de plutônio com nêutron. Fora da pesquisa básica nenhum uso para o férmio foi encontrado.",
-    "uses": "d"
+    "desc": "O férmio (em homenagem a Enrico Fermi) é um elemento químico sintético, de símbolo Fm, número atômico 100 (100 prótons e 100 elétrons), com massa atómica [257] u. É radioativo, metálico, transurânico, e faz parte do grupo dos actinídeos. Foi descoberto em 1955, por uma equipe liderada por Albert Ghiorso. É produzido pelo bombardeamento de plutônio com nêutron.",
+    "uses": "Fora da pesquisa básica, nenhum uso para o férmio foi encontrado."
     } ,
   {
     "id": 101,
@@ -1455,8 +1455,8 @@
     "position": [ 16, 10 ],
     "formula": [ "Md" ],
     "image": "https://images-of-elements.com/s/mendelevium.jpg",
-    "desc": "O mendelévio (em homenagem ao químico russo Dmitri Mendeleev) é um elemento químico de símbolo Md , número atômico 101 (101 prótons e 101 elétrons) e de massa atómica igual a 258 u. É metálico, radioativo, transurânico, do grupo dos actinídeos. O mendelévio foi sintetizado pela primeira vez em 1955 por uma equipe de cientistas norte-americana liderada por Albert Ghiorso.",
-    "uses": "d"
+    "desc": "O mendelévio (em homenagem ao químico russo Dmitri Mendeleev) é um elemento químico de símbolo Md, número atômico 101 (101 prótons e 101 elétrons) e de massa atómica igual a 258 u. É metálico, radioativo, transurânico, do grupo dos actinídeos. O mendelévio foi sintetizado pela primeira vez em 1955, por uma equipe de cientistas norte-americana liderada por Albert Ghiorso.",
+    "uses": "O mendelévio é usado apenas em pesquisas"
   } ,
   {
     "id": 102,
@@ -1472,8 +1472,8 @@
     "position": [ 17, 10 ],
     "formula": [ "No" ],
     "image": "https://images-of-elements.com/s/nobelium.jpg",
-    "desc": "É metálico, radioativo, transurânico, do grupo dos actinídeos. É sintetizado bombardeando o cúrio-248 ou califórnio-249 com íons carbono. Foi identificado pela primeira vez por uma equipe liderada por Albert Ghiorso e Glenn T. Seaborg em 1958.\nPouco é conhecido sobre o nobélio, e somente quantidades pequenas deste elemento foram produzidas até agora. Fora do âmbito da pesquisa nenhum uso foi encontrado para este elemento. O isótopo mais estável, nobélio-259, tem uma meia-vida de 58 minutos, e decai para o férmio-255 por emissão alfa ou para mendelévio-259 por captura eletrônica.",
-    "uses": "d"
+    "desc": "É metálico, radioativo, transurânico, do grupo dos actinídeos. É sintetizado bombardeando o cúrio-248 ou califórnio-249 com íons carbono. Foi identificado pela primeira vez por uma equipe liderada por Albert Ghiorso e Glenn T. Seaborg, em 1958. O isótopo mais estável, nobélio-259, tem uma meia-vida de 58 minutos, e decai para o férmio-255, por emissão alfa ou para mendelévio-259 por captura eletrônica.",
+    "uses": "Pouco é conhecido sobre o nobélio, e somente quantidades pequenas deste elemento foram produzidas até agora. Fora do âmbito da pesquisa, nenhum uso foi encontrado para este elemento."
   },
   {
     "id": 103,
@@ -1489,8 +1489,8 @@
     "position": [ 18, 10 ],
     "formula": [ "Lr" ],
     "image": "https://images-of-elements.com/s/lawrencium.jpg",
-    "desc": "É um elemento radioativo, de curta-duração, transurânico, último elemento do grupo dos actinídeos. Este elemento foi sintetizado a partir do califórnio com íons de Boro, em 1961 no laboratório Berkeley, Califórnia, Estados Unidos, por uma equipe de cientistas liderada por Albert Ghiorso.\nA aparência deste elemento é desconhecida, entretanto, é muito provável ser metálico, sólido, branco prateado ou cinza. Se quantidades suficientes de lawrêncio forem produzidas apresentarão o perigo da radiação. Pouco é conhecido sobre as propriedades químicas deste elemento, porém trabalhos preliminares com alguns átomos indicaram que é semelhante aos actinídeos.\nO laurêncio era, e ainda frequentemente é, agrupado na série química dos actinídeos na tabela periódica. Entretanto, ao contrário dos demais actinídeos e dos Lantanídeos, que fazem parte dos metais de transição interna, e igualmente ao Lutécio (71), o elemento 103 é um elemento do bloco d, consequentemente, está sendo colocado cada vez mais no conjunto dos outros elementos do 'bloco D', ou seja, na série química dos metais de transição externa.",
-    "uses": "d"
+    "desc": "Pouco é conhecido sobre as propriedades químicas deste elemento, porém trabalhos preliminares com alguns átomos indicaram que é semelhante aos actinídeos. O laurêncio era, e frequentemente ainda é agrupado na série química dos actinídeos na tabela periódica. Entretanto, ao contrário dos demais actinídeos e dos lantanídeos, que fazem parte dos metais de transição interna, e igualmente ao Lutécio (71), o elemento 103 é um elemento do bloco d; consequentemente, está sendo colocado cada vez mais no conjunto dos outros elementos do 'bloco d', ou seja, na série química dos metais de transição externa.",
+    "uses": "Não existe nenhum uso para o laurêncio"
   },
   {
     "id": 104,
@@ -1506,8 +1506,8 @@
     "position": [ 4, 7 ],
     "formula": [ "Rf" ],
     "image": "https://images-of-elements.com/s/rutherfordium.jpg",
-    "desc": "Este elemento é altamente radioativo, com a maioria dos seus isótopos com meias-vidas abaixo de 70 segundos. Consequentemente, este elemento não apresenta qualquer aplicação conhecida e pouco se conhece sobre ele. O elemento é o primeiro transactinídeo e se prevê que apresente propriedades químicas semelhantes ao elemento háfnio.",
-    "uses": "d"
+    "desc": "Este elemento é altamente radioativo, com a maioria dos seus isótopos com meias-vidas abaixo de 70 segundos.",
+    "uses": "Consequentemente, este elemento não apresenta qualquer aplicação conhecida, e pouco se conhece sobre ele. O elemento é o primeiro transactinídeo, e se prevê que apresente propriedades químicas semelhantes ao elemento háfnio."
   },
   {
     "id": 105,
@@ -1523,8 +1523,8 @@
     "position": [ 5, 7 ],
     "formula": [ "Db" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "É um elemento sintético, altamente radiativo , cujo isótopo mais estável é o Db-268 com uma meia-vida de 16 horas. Tem uma elevada estabilidade comparada com a dos seus elementos vizinhos da tabela periódica.\nProvavelmente é um sólido na temperatura ambiente. Não encontrado na crosta terrestre, e sem aplicação conhecida.",
-    "uses": "d"
+    "desc": "É um elemento sintético, altamente radiativo, cujo isótopo mais estável é o Db-268, com uma meia-vida de 16 horas. Tem uma elevada estabilidade, comparada com a dos seus elementos vizinhos da tabela periódica.",
+    "uses": "Provavelmente, é um sólido na temperatura ambiente. Não encontrado na crosta terrestre, e sem aplicação conhecida."
   },
   {
     "id": 106,
@@ -1540,8 +1540,8 @@
     "position": [ 6, 7 ],
     "formula": [ "Sg" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "É um elemento radioativo, transurânico, provavelmente metálico, sólido de aspecto prateado. O elemento foi sintetizado, em 1974, por uma equipe soviética em Dubna, e por uma equipe norte-americana em Berkeley. O isótopo mais estável é o 266Sg com uma meia-vida de 21 segundos. Nenhum uso é conhecido fora do âmbito da pesquisa.",
-    "uses": "d"
+    "desc": "É um elemento radioativo, transurânico, provavelmente metálico, sólido de aspecto prateado. O elemento foi sintetizado, em 1974, por uma equipe soviética em Dubna, e por uma equipe norte-americana em Berkeley. O isótopo mais estável é o Sg-266, com uma meia-vida de 21 segundos.",
+    "uses": "Nenhum uso é conhecido fora do âmbito da pesquisa."
   },
   {
     "id": 107,
@@ -1557,8 +1557,8 @@
     "position": [ 7, 7 ],
     "formula": [ "Bh" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "É um elemento de transição, pertencente ao grupo 7 da tabela periódica, radioativo, transurânico, provavelmente metálico, sólido, de aspecto prateado, cujo isótopo mais estável, Bh-262, apresenta meia-vida de 2-10 minutos.\nO isótopo de bóhrio-261 foi sintetizado em 1976 por cientistas soviético em Dubna, bombardeando bismuto com íons pesados de cromo. Fora da pesquisa científica nenhum uso é conhecido para o bóhrio.",
-    "uses": "d"
+    "desc": "É um elemento de transição, pertencente ao grupo 7 da tabela periódica, radioativo, transurânico, provavelmente metálico, sólido, de aspecto prateado, cujo isótopo mais estável, Bh-262, apresenta meia-vida de 2-10 minutos. O isótopo de Bh-261 foi sintetizado em 1976, por cientistas soviéticos em Dubna, bombardeando bismuto com íons pesados de cromo.",
+    "uses": "Fora da pesquisa científica nenhum uso é conhecido para o bóhrio."
   },
   {
     "id": 108,
@@ -1574,8 +1574,8 @@
     "position": [ 8, 7 ],
     "formula": [ "Hs" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "O hássio é um elemento químico artificial, símbolo Hs de número atômico 108 (108 prótons e 108 elétrons) e de massa atómica 269 u pertencente ao grupo 8 (anteriormente conhecido como 8B) da Classificação Periódica dos Elementos. Provavelmente é um sólido na temperatura ambiente. Não é encontrado na crosta terrestre.\nO elemento hássio foi sintetizado pelos pesquisadores alemães liderados por Peter Armbruster e Gottfried Münzenberg no laboratório GSI (Gesellschaft für Schwerionenforschung) do Institute Heavy Ion Research de Darmstadt, em 1984.",
-    "uses": "d"
+    "desc": "O hássio é um elemento químico artificial, símbolo Hs de número atômico 108 (108 prótons e 108 elétrons) e de massa atómica 269 u pertencente ao grupo 8 (anteriormente conhecido como 8B) da Classificação Periódica dos Elementos. Provavelmente, é um sólido na temperatura ambiente. Não é encontrado na crosta terrestre. O elemento hássio foi sintetizado pelos pesquisadores alemães liderados por Peter Armbruster e Gottfried Münzenberg, no laboratório GSI (Gesellschaft für Schwerionenforschung) do Institute Heavy Ion Research de Darmstadt, em 1984.",
+    "uses": "Não existe nenhum uso para o hássio"
   },
   {
     "id": 109,
@@ -1591,8 +1591,8 @@
     "position": [ 9, 7 ],
     "formula": [ "Mt" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "É um elemento sintético cujo isótopo mais estável é o Mt-266 com uma meia-vida de 3.4 milissegundos. É um metal de transição do grupo 9 da Classificação Periódica dos Elementos, provavelmente sólido em temperatura ambiente. Não é encontrado na crosta terrestre e sua única forma de obtenção é sintética, por meio de reações de fusão nuclear.\nO Meitnério foi sintetizado pela primeira vez a 29 de agosto de 1982 no laboratório GSI (Gesellschaft für Schwerionenforschung) do Instituto para Pesquisa de Íons Pesado, em Darmstadt.\nA equipe efetuou uma colisão entre dois núcleos pesados, o Bi-209 com Fe-58 utilizando um acelerador nuclear. A criação deste elemento demonstrou que as técnicas de fusão nuclear podem ser utilizadas para produzir novos elementos pesados.",
-    "uses": "d"
+    "desc": "É um elemento sintético cujo isótopo mais estável é o Mt-266, com uma meia-vida de 3,4 milissegundos. É um metal de transição do grupo 9 da Classificação Periódica dos Elementos, provavelmente sólido em temperatura ambiente. Não é encontrado na crosta terrestre, e sua única forma de obtenção é sintética, por meio de reações de fusão nuclear. O Meitnério foi sintetizado pela primeira vez em 29 de agosto de 1982, no laboratório GSI (Gesellschaft für Schwerionenforschung) do Instituto para Pesquisa de Íons Pesado, em Darmstadt. A equipe efetuou uma colisão entre dois núcleos pesados, o Bi-209 com Fe-58, utilizando um acelerador nuclear",
+    "uses": "A criação deste elemento demonstrou que as técnicas de fusão nuclear podem ser utilizadas para produzir novos elementos pesados."
   },
   {
     "id": 110,
@@ -1608,8 +1608,8 @@
     "position": [ 10, 7 ],
     "formula": [ "Ds" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "É um elemento químico sintético de número atômico 110 (110 prótons e 110 elétrons). O seu núcleo atômico mais estável possui massa atómica [281] u. Pertence ao grupo 10 da Classificação Periódica dos Elementos. Provavelmente é um sólido metálico.\nO isótopo Ds-269 foi descoberto pelo professor Sigurd Hofmann e seus colaboradores em 9 de novembro de 1994, através da fusão macia (baixo aquecimento) do Pb-208 com Ni-62, com a emissão de um nêutron, no Instituto de Pesquisas de Íons Pesados (GSI - Gesellschaft für Schwerionenforschung) da cidade de Darmstadt, na Alemanha, vencendo a corrida pela obtenção de metais pesados competindo com Berkeley (Estados Unidos) e Dubna (Rússia). Em 23 de novembro de 1994, do mesmo modo, porém utilizando na fusão o Ni-64, foi criado o isótopo Ds-271, com dois nêutrons a mais que o Ds-269.",
-    "uses": "d"
+    "desc": "É um elemento químico sintético de número atômico 110 (110 prótons e 110 elétrons). O seu núcleo atômico mais estável possui massa atómica [281] u. Pertence ao grupo 10 da Classificação Periódica dos Elementos. Provavelmente, é um sólido metálico. O isótopo Ds-269 foi descoberto pelo professor Sigurd Hofmann e seus colaboradores, em 9 de novembro de 1994, através da fusão macia (baixo aquecimento) do Pb-208 com Ni-62, com a emissão de um nêutron, no Instituto de Pesquisas de Íons Pesados (GSI - Gesellschaft für Schwerionenforschung) da cidade de Darmstadt, na Alemanha, vencendo a corrida pela obtenção de metais pesados competindo com Berkeley (Estados Unidos) e Dubna (Rússia). Em 23 de novembro de 1994, do mesmo modo, mas utilizando o Ni-64 na fusão, foi criado o isótopo Ds-271, com dois nêutrons a mais que o Ds-269.",
+    "uses": "."
   },
   {
     "id": 111,
@@ -1625,8 +1625,8 @@
     "position": [ 11, 7 ],
     "formula": [ "Rg" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "É um elemento sintético, transurânico, radioativo, cujo único isótopo conhecido apresenta meia-vida em torno de 15 milissegundos, decaindo em meitnério-268. Devido a sua presença no grupo 11 da tabela periódica é um metal de transição, provavelmente metálico e sólido.",
-    "uses": "d"
+    "desc": "É um elemento sintético, transurânico, radioativo, cujo único isótopo conhecido apresenta meia-vida em torno de 15 milissegundos, decaindo em meitnério-268. Devido à sua presença no grupo 11 da tabela periódica, é um metal de transição, provavelmente metálico e sólido.",
+    "uses": "."
   },
   {
     "id": 112,
@@ -1642,8 +1642,8 @@
     "position": [ 12, 7 ],
     "formula": [ "Cn" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "É um elemento superpesado, radioativo, e seus isótopos se deterioram através da emissão alfa ou de fissão espontânea com meia-vida extremamente curta. Alguns pesquisadores lhe atribuíram o nome de 'eka-mercúrio' devido a algumas semelhanças com este elemento. É, provavelmente, metálico, líquido, de aspecto prateado. O copernício é previsto para ter um baixo ponto de fusão e de ebulição e ser altamente volátil à temperatura ambiente.\nO copernício deverá ser um metal muito pesado com uma densidade de cerca de 23,7 g/cm3 no estado sólido. Em comparação, o elemento mais denso conhecido que teve sua densidade medida, o ósmio, tem uma densidade de apenas 22,61 g/cm3. Isso resulta da alta massa atômica do Cn, devido às contrações de lantânidos e actinídeos e efeitos relativísticos, embora a produção de Cn suficiente para medir essa quantidade seria impraticável e a amostra decairia rapidamente. ",
-    "uses": "d"
+    "desc": "É um elemento superpesado, radioativo, e seus isótopos se deterioram através da emissão alfa, ou de fissão espontânea, com meia-vida extremamente curta. Alguns pesquisadores lhe atribuíram o nome de 'eka-mercúrio', devido a algumas semelhanças com este elemento. É, provavelmente, metálico, líquido, de aspecto prateado. O copernício é previsto ter baixo ponto de fusão e de ebulição, e ser altamente volátil à temperatura ambiente. O copernício deverá ser um metal muito pesado, com uma densidade de cerca de 23,7 g.cm-3 no estado sólido. Em comparação, o elemento mais denso conhecido que teve sua densidade medida, o ósmio, tem uma densidade de apenas 22,61 g.cm-3. Isso resulta da alta massa atômica do Cn, devido às contrações de lantanídeos e actinídeos, e efeitos relativísticos, embora a produção de Cn suficiente para medir essa quantidade seria impraticável e a amostra decairia rapidamente.",
+    "uses": "."
   },
   {
     "id": 113,
@@ -1659,8 +1659,8 @@
     "position": [ 13, 7 ],
     "formula": [ "Nh" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "Descoberto no início de 2004 por uma equipe de cientistas russos e norte-americanos, é um transurânico, provavelmente um sólido de aspecto prateado. Em 2015, a IUPAC e a IUPAP confirmaram descoberta dos elementos nihônio, moscóvio, tenesso e oganessônio. No dia 8 de junho de 2016, a IUPAC sugeriu que o elemento 113 fosse batizado de nihonium.\nAinda não se conhecem compostos do nihônio, pois o elemento foi obtido em quantidades muito pequenas e seu tempo de desintegração radioativa é curto demais para serem preparados seus compostos. Julgando por sua posição na tabela periódica, especula-se que suas propriedades sejam semelhantes às do tálio, elemento situado logo acima na tabela periódica. Por esse ângulo, supõe-se que o nihônio forme íons com NOX +1 e +3, semelhante ao Tl e, pelo efeito do par inerte, seu estado de oxidação +1 seja ainda mais estável que o do tálio. Especula-se que o Nh trivalente (Nh+3) seja um agente oxidante mais enérgico que Tl+3.",
-    "uses": "d"
+    "desc": "Descoberto no início de 2004, por uma equipe de cientistas russos e norte-americanos. É um transurânico, provavelmente um sólido de aspecto prateado. Em 2015, a IUPAC e a IUPAP confirmaram descoberta dos elementos nihônio, moscóvio, tenesso e oganessônio. No dia 8 de junho de 2016, a IUPAC sugeriu que o elemento 113 fosse batizado de nihonium. Ainda não se conhecem compostos do nihônio, pois o elemento foi obtido em quantidades muito pequenas e seu tempo de desintegração radioativa é curto demais para serem preparados seus compostos. Julgando por sua posição na tabela periódica, especula-se que suas propriedades sejam semelhantes às do tálio, elemento situado logo acima na tabela periódica. Por esse ângulo, supõe-se que o nihônio forme íons com NOX +1 e +3, semelhante ao Tl e, pelo efeito do par inerte, seu estado de oxidação +1 seja ainda mais estável que o do tálio. Especula-se que o Nh trivalente (Nh3+) seja um agente oxidante mais enérgico que Tl3+.",
+    "uses": "."
   },
   {
     "id": 114,
@@ -1676,8 +1676,8 @@
     "position": [ 14, 7 ],
     "formula": [ "Fl" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "É um elemento transurânico, radioativo, provavelmente metálico, sólido e de aspecto prateado. Foi sintetizado por uma equipe de cientistas russos da cidade russa de Dubna, em 1999. Junto com o moscóvio toma parte da denominada 'ilha de estabilidade', cujos elementos químicos, teoricamente, deveriam ser mais estáveis do que aqueles que os rodeiam.",
-    "uses": "d"
+    "desc": "É um elemento transurânico, radioativo provavelmente metálico, sólido e de aspecto prateado. Foi sintetizado por uma equipe de cientistas russos da cidade russa de Dubna, em 1999. Junto com o moscóvio, toma parte da denominada 'ilha de estabilidade', cujos elementos químicos, teoricamente, deveriam ser mais estáveis do que aqueles que os rodeiam.",
+    "uses": "."
   },
   {
     "id": 115,
@@ -1693,8 +1693,8 @@
     "position": [ 15, 7 ],
     "formula": [ "Mc" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "O moscóvio é um elemento químico sintético, de símbolo Mc e número atômico 115. É um elemento transurânico, radioativo, provavelmente metálico e sólido cuja descoberta foi anunciada por cientistas russos e norte-americanos no início de 2004.\nO moscóvio apresentaria certas propriedades similares aos demais elementos do grupo 15, mas sua química e propriedades físicas possuiriam algumas anomalias causadas pelos efeitos quânticos relativísticos que afetam os elementos mais pesados do final do período 7. Ele teria uma primeira energia de ionização consideravelmente baixa, o que o faria um metal relativamente reativo e facilmente oxidável. Sua ligação metálica também seria relativamente fraca, o que o tornaria provavelmente um metal mole e de baixo ponto de fusão se comparado aos demais elementos do grupo.",
-    "uses": "d"
+    "desc": "O moscóvio é um elemento químico sintético, de símbolo Mc e número atômico 115. É um elemento transurânico, radioativo, provavelmente metálico e sólido, cuja descoberta foi anunciada por cientistas russos e norte-americanos no início de 2004. O moscóvio apresentaria certas propriedades similares aos demais elementos do grupo 15, mas sua química e propriedades físicas possuiriam algumas anomalias causadas pelos efeitos quânticos relativísticos, que afetam os elementos mais pesados do final do período 7.",
+    "uses": "Ele teria uma primeira energia de ionização consideravelmente baixa, o que o faria um metal relativamente reativo e facilmente oxidável. Sua ligação metálica também seria relativamente fraca, o que o tornaria provavelmente um metal mole e de baixo ponto de fusão, se comparado aos demais elementos do grupo."
   },
   {
     "id": 116,
@@ -1710,8 +1710,8 @@
     "position": [ 16, 7 ],
     "formula": [ "Lv" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "É um elemento transurânico, radioativo, superpesado, provavelmente metálico, sólido e com aspecto prateado. A descoberta foi relatada por cientistas norte-americanos em 1999 e russos em 2001.\n",
-    "uses": "d"
+    "desc": "É um elemento transurânico, radioativo, superpesado, provavelmente metálico, sólido e com aspecto prateado. A descoberta foi relatada por cientistas norte-americanos em 1999 e russos em 2001",
+    "uses": "."
   },
   {
     "id": 117,
@@ -1728,7 +1728,7 @@
     "formula": [ "Ts" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
     "desc": "Elemento transurânico, provavelmente um sólido de coloração escura. É um átomo superpesado com massa atômica prevista de [291] u, altamente instável, sem isótopos estáveis conhecidos.",
-    "uses": "d"
+    "uses": "."
   },
   {
     "id": 118,
@@ -1744,8 +1744,8 @@
     "position": [ 18, 7 ],
     "formula": [ "Og" ],
     "image": "https://images-of-elements.com/s/transactinoid.png",
-    "desc": "é o elemento químico superpesado sintético de número atômico 118 (118 prótons e 118 elétrons),[4] de símbolo químico Og. A designação (em inglês) foi oficializada pela IUPAC em 28 de novembro de 2016 como oganesson - referência ao físico nuclear russo Yuri Oganessian.\nPela posição na tabela periódica, a previsão é que o oganessônio apresente propriedades químicas similares às do radônio. Por isso, também é conhecido pelo nome de eka-radônio.\nEntretanto, dados obtidos por cálculos sugerem que o elemento pode não ser gasoso a 20 °C como os demais elementos da família, visto que isso é improvável para um elemento com uma massa tão elevada, devido ao aumento das interações intermoleculares. Este fato é reforçado ainda mais pela influência dos efeitos quânticos relativísticos. Estima-se que o ponto de fusão do oganessônio seja em torno de 47 °C (320 K), de modo que ele seja um sólido à temperatura ambiente. Supõe-se também, com base na tendência observada no grupo, que o ponto de ebulição do elemento seja apenas cerca de 2 °C acima do ponto de fusão.",
-    "uses": "d"
+    "desc": "É um elemento químico superpesado, sintético, de número atômico 118 (118 prótons e 118 elétrons), de símbolo químico Og. A designação (em inglês) foi oficializada pela IUPAC em 28 de novembro de 2016, como oganesson - referência ao físico nuclear russo Yuri Oganessian. Pela posição na tabela periódica, a previsão é que o oganessônio apresente propriedades químicas similares às do radônio. Por isso, também é conhecido pelo nome de eka-radônio.",
+    "uses": "Entretanto, dados obtidos por cálculos sugerem que o elemento pode não ser gasoso a 20 °C como os demais elementos da família, visto que isso é improvável para um elemento com uma massa tão elevada, devido ao aumento das interações intermoleculares. Este fato é reforçado ainda mais pela influência dos efeitos quânticos relativísticos. Estima-se que o ponto de fusão do oganessônio seja em torno de 47 °C (320 K), de modo que ele seja um sólido à temperatura ambiente. Supõe-se, também, com base na tendência observada no grupo, que o ponto de ebulição do elemento seja apenas cerca de 2 °C acima do ponto de fusão."
   }
 
 ]
