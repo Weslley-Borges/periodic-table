@@ -1,4 +1,4 @@
-import {useState} from 'react'
+import { useState } from 'react'
 import elements from './elements.json'
 import './styles.scss'
 
@@ -14,11 +14,11 @@ interface Element {
 	formula: Array<string>
 	image: string
 	desc: string
-  uses: string
+	uses: string
 }
 
-const ElementModal = (props: any) =>{
-  return (
+const ElementModal = (props: any) => {
+	return (
 		<div className="popup">
 			<div className="popup-inner">
 				{props.children}
@@ -27,10 +27,10 @@ const ElementModal = (props: any) =>{
 	)
 }
 
-function getatomic(weigth: Array<number>): HTMLUListElement | any{
+function getatomic(weigth: Array<number>): HTMLUListElement | any {
 	return (
 		weigth.forEach(weigth => {
-			return <li>{weigth}</li> 
+			return <li>{weigth}</li>
 		})
 	)
 }
@@ -38,54 +38,52 @@ function getatomic(weigth: Array<number>): HTMLUListElement | any{
 export const PeriodicTable = () => {
 	const [showModal, setShowModal] = useState(false)
 	const [data, setData] = useState({
-    id: 1,
-    symbol: "H",
-    name: "Hidrogênio",
-    atomicMass: 1.008,
-    atomicWeight: [ 1 ],
-    class: "Hidrogênio",
-    family: "Hidrogênio",
-    position: [ 1, 1 ],
-    formula: [ "H" ],
+		id: 1,
+		symbol: "H",
+		name: "Hidrogênio",
+		atomicMass: 1.008,
+		atomicWeight: [1],
+		class: "Hidrogênio",
+		family: "Hidrogênio",
+		position: [1, 1],
+		formula: ["H"],
 		image: "",
 		desc: "",
-    uses: ""
-  })
+		uses: ""
+	})
 
 	function openModal() {
-    setShowModal(true)
-  }
-	function closeModal() {setShowModal(false)}
-
+		setShowModal(true)
+	}
+	function closeModal() { setShowModal(false) }
 
 	const classes = [
-		{tag:"Não_Metal", name: "Não Metais"},
-		{tag:"Gás_Nobre", name: "Gases Nobre"},
-		{tag:"Metal_Alcalino", name: "Metais Alcalinos"},
-		{tag:"Metal_Alcalino-terroso", name: "Metais Alcalino-terrosos"},
-		{tag:"Metal_de_Transição", name: "Metais de Transição"},
-		{tag:"Semimetal", name: "Semimetais"},
-		{tag:"Outros_Metais", name: "Outros Metais"},
-		{tag:"Lantanídeos", name: "Lantanídeos"},
-		{tag:"Actinídeos", name: "Actinídeos"},
-		{tag:"Halogênio", name: "Halogênios"},
+		{ tag: "Não_Metal", name: "Não Metais" },
+		{ tag: "Gás_Nobre", name: "Gases Nobre" },
+		{ tag: "Metal_Alcalino", name: "Metais Alcalinos" },
+		{ tag: "Metal_Alcalino-terroso", name: "Metais Alcalino-terrosos" },
+		{ tag: "Metal_de_Transição", name: "Metais de Transição" },
+		{ tag: "Semimetal", name: "Semimetais" },
+		{ tag: "Outros_Metais", name: "Outros Metais" },
+		{ tag: "Lantanídeos", name: "Lantanídeos" },
+		{ tag: "Actinídeos", name: "Actinídeos" },
+		{ tag: "Halogênio", name: "Halogênios" },
 	]
 
 
 	return (
 		<div className="page-periodicTable">
 			<div className="wrapper">
-				<div className="periodic-table">
-
+				<div className={`periodic-table ${showModal ? 'modal-open' : 'modal-close'}`}>
+					<div className="overlay"></div>
 					{elements.map((element: Element) => {
 						return (
 							<div className={`element ${element.family} c${element.position[0]} r${element.position[1]}`}>
 								<input className="activate" type="radio" name="elements" onClick={() => {
 									setData(element);
 									openModal();
-								}}/>
-								<input className="deactivate" type="radio" name="elements" onClick={closeModal}/>
-								<div className="overlay"></div>
+								}} />
+								<input className="deactivate" type="radio" name="elements" checked={showModal ? false : true} onClick={closeModal} />
 								<div className="square">
 									<div className="atomic-number">{element.id}</div>
 									<div className="label">
@@ -102,15 +100,15 @@ export const PeriodicTable = () => {
 					})}
 
 					<div className="placeholder lanthanoid c3 r6">
-							<div className="square">57-71</div>
+						<div className="square">57-71</div>
 					</div>
 					<div className="placeholder actinoid c3 r7">
-							<div className="square">89-103</div>
+						<div className="square">89-103</div>
 					</div>
 					<div className="gap c3 r8"></div>
 					<div className="key">
-						{classes.map( (family) => {
-							return(
+						{classes.map((family) => {
+							return (
 								<div className="row">
 									<label className={family.tag} htmlFor={family.tag}>{family.name}</label>
 								</div>
@@ -120,20 +118,21 @@ export const PeriodicTable = () => {
 				</div>
 			</div>
 			{
-				showModal 
+				showModal
 				? (
 					<ElementModal>
+						<div className="close-popup-button" onClick={closeModal}>X</div>
 						<div className="content-img">
 							<img
-								src={data.image} 
-							  alt={data.name}
-              />
+								src={data.image}
+								alt={data.name}
+							/>
 						</div>
 						<div className="content-text">
 							<h4 className={data.family}>{data.name} - {data.symbol}</h4>
-							<h5 className={data.family}> { data.family == "Hidrogênio" ? "Hidrogênio": data.family.replace("_"," ")}</h5>
+							<h5 className={data.family}>{data.family.includes('_') ? data.family.replace(/_/g, " ") : data.family}</h5>
 							<p>{data.desc}</p>
-              <p>{data.uses}</p>
+							<p>{data.uses}</p>
 						</div>
 					</ElementModal>
 				) : null

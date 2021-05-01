@@ -49,6 +49,26 @@ body {
   display: grid;
   grid-gap: $gridGap;
   grid-template-columns: repeat(18, 1fr);
+
+  .overlay{
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: $bgColor;
+    pointer-events: none;
+    transition: 500ms;
+  }
+  
+  &.modal-open .overlay {
+    opacity: 0.75;
+  }
+  
+  &.modal-close .overlay {
+    opacity: 0;
+  }
 }
 
 
@@ -61,19 +81,6 @@ body {
   cursor: pointer;
   color: #fff;
   transition: 500ms;
-
-  .overlay{
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    background-color: $bgColor;
-    opacity: 0;
-    pointer-events: none;
-    transition: 500ms;
-  }
   
   .square{
     position: absolute;
@@ -210,9 +217,6 @@ body {
       &:checked + input[type="radio"].deactivate{
         z-index: 3;
         pointer-events: all;
-      }
-      &:checked ~ .overlay{
-        opacity: 0.75
       }
     }
     &.deactivate{
@@ -360,18 +364,40 @@ body {
   z-index: 100;
   position: absolute;
   width: 80%;
-  left: 10%;
-  top: 10%;
+  left: 50%;
+  top: 50%;
   border-radius: 1rem;
   background-color: #313131;
   padding: 1rem;
+  transform: translate(-50% ,-50%);
+  border: solid 1px #f0f8ff;
 
   display: flex;
   flex-direction: column;
 
-  .content-img, .content-text {
-    margin-top: 1rem;
+  .popup-inner,
+  .content-img {
+    display: flex;
   }
+
+  .popup-inner {
+    position: relative;
+
+    .close-popup-button {
+      color: white;
+      position: absolute;
+      right: -8px;
+      font-size: 1.3rem;
+      padding: 0 8px;
+      cursor: pointer;
+      top: -8px;
+    }
+  }
+
+  .element-name {
+    text-align: center;
+  }
+
   .content-img {
     width: 40%;
     float:left;
