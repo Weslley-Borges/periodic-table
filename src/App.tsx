@@ -52,6 +52,8 @@ export const PeriodicTable = () => {
 		uses: ""
 	})
 
+	const [familySelected, setFamilySelected] = useState('family-all');
+
 	function openModal() {
 		setShowModal(true)
 	}
@@ -74,7 +76,7 @@ export const PeriodicTable = () => {
 	return (
 		<div className="page-periodicTable">
 			<div className="wrapper">
-				<div className={`periodic-table ${showModal ? 'modal-open' : 'modal-close'}`}>
+				<div className={`periodic-table ${showModal ? 'modal-open' : 'modal-close'} ${familySelected}`}>
 					<div className="overlay"></div>
 					{elements.map((element: Element) => {
 						return (
@@ -109,7 +111,7 @@ export const PeriodicTable = () => {
 					<div className="key">
 						{classes.map((family) => {
 							return (
-								<div className="row">
+								<div className="row" onClick={() => setFamilySelected(familySelected === `family-${family.tag}` ? 'family-all' : `family-${family.tag}`)}>
 									<label className={family.tag} htmlFor={family.tag}>{family.name}</label>
 								</div>
 							)
