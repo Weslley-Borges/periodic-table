@@ -294,55 +294,17 @@ body {
 .Gás_Nobre { color: $nobleGasColor }
 .Halogênio { color: $postTransitionMetalColor }
 
-.periodic-table.family-Metal_Alcalino {
-  .element:not(.Metal_Alcalino) {
-    color: $unselected;
-  }
-}
-.periodic-table.family-Metal_Alcalino-terroso {
-  .element:not(.Metal_Alcalino-terroso) {
-    color: $unselected;
-  }
-}
-.periodic-table.family-Lantanídeos {
-  .element:not(.Lantanídeos) {
-    color: $unselected;
-  }
-}
-.periodic-table.family-Actinídeos {
-  .element:not(.Actinídeos) {
-    color: $unselected;
-  }
-}
-.periodic-table.family-Metal_de_Transição {
-  .element:not(.Metal_de_Transição) {
-    color: $unselected;
-  }
-}
-.periodic-table.family-Outros_Metais {
-  .element:not(.Outros_Metais) {
-    color: $unselected;
-  }
-}
-.periodic-table.family-Semimetal {
-  .element:not(.Semimetal) {
-    color: $unselected;
-  }
-}
-.periodic-table.family-Não_Metal {
-  .element:not(.Não_Metal) {
-    color: $unselected;
-  }
-}
-.periodic-table.family-Gás_Nobre {
-  .element:not(.Gás_Nobre) {
-    color: $unselected;
-  }
-}
-.periodic-table.family-Halogênio {
-  .element:not(.Halogênio) {
-    color: $unselected;
-  }
+.periodic-table.family-Metal_Alcalino .element:not(.Metal_Alcalino),
+.periodic-table.family-Metal_Alcalino-terroso .element:not(.Metal_Alcalino-terroso),
+.periodic-table.family-Lantanídeos .element:not(.Lantanídeos),
+.periodic-table.family-Actinídeos .element:not(.Actinídeos),
+.periodic-table.family-Metal_de_Transição .element:not(.Metal_de_Transição),
+.periodic-table.family-Outros_Metais .element:not(.Outros_Metais),
+.periodic-table.family-Semimetal .element:not(.Semimetal),
+.periodic-table.family-Não_Metal .element:not(.Não_Metal),
+.periodic-table.family-Gás_Nobre .element:not(.Gás_Nobre),
+.periodic-table.family-Halogênio .element:not(.Halogênio) {
+  color: $unselected;
 }
 
 
