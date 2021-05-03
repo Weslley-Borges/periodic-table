@@ -16,10 +16,12 @@ $metalloidColor: #3aefb6;
 $otherNonmetalColor: #52ee61;
 $nobleGasColor: #759fff;
 $other_metals: #ff6262;
+$unselected: #7b7b7b;
 
 body {
   background: $bgColor
 }
+
 .page-periodicTable {
   background: $bgColor;
   width:100%;
@@ -49,18 +51,6 @@ body {
   display: grid;
   grid-gap: $gridGap;
   grid-template-columns: repeat(18, 1fr);
-}
-
-
-//ELEMNTOS DA TABELA
-
-.element{
-  position: relative;
-  font-size: 0.5vw;
-  padding-bottom: 100%;
-  cursor: pointer;
-  color: #fff;
-  transition: 500ms;
 
   .overlay{
     position: fixed;
@@ -70,10 +60,28 @@ body {
     top: 0;
     bottom: 0;
     background-color: $bgColor;
-    opacity: 0;
     pointer-events: none;
     transition: 500ms;
   }
+  
+  &.modal-open .overlay {
+    opacity: 0.75;
+  }
+  
+  &.modal-close .overlay {
+    opacity: 0;
+  }
+}
+
+
+//ELEMNTOS DA TABELA
+.element{
+  position: relative;
+  font-size: 0.5vw;
+  padding-bottom: 100%;
+  cursor: pointer;
+  color: #fff;
+  transition: 500ms;
   
   .square{
     position: absolute;
@@ -211,9 +219,6 @@ body {
         z-index: 3;
         pointer-events: all;
       }
-      &:checked ~ .overlay{
-        opacity: 0.75
-      }
     }
     &.deactivate{
       position: fixed;
@@ -287,7 +292,20 @@ body {
 .Semimetal { color: $metalloidColor }
 .Não_Metal { color: $otherNonmetalColor }
 .Gás_Nobre { color: $nobleGasColor }
-.Halogênio { color: $postTransitionMetalColor}
+.Halogênio { color: $postTransitionMetalColor }
+
+.periodic-table.family-Metal_Alcalino .element:not(.Metal_Alcalino),
+.periodic-table.family-Metal_Alcalino-terroso .element:not(.Metal_Alcalino-terroso),
+.periodic-table.family-Lantanídeos .element:not(.Lantanídeos),
+.periodic-table.family-Actinídeos .element:not(.Actinídeos),
+.periodic-table.family-Metal_de_Transição .element:not(.Metal_de_Transição),
+.periodic-table.family-Outros_Metais .element:not(.Outros_Metais),
+.periodic-table.family-Semimetal .element:not(.Semimetal),
+.periodic-table.family-Não_Metal .element:not(.Não_Metal),
+.periodic-table.family-Gás_Nobre .element:not(.Gás_Nobre),
+.periodic-table.family-Halogênio .element:not(.Halogênio) {
+  color: $unselected;
+}
 
 
 // lINHAS E COLUNAS 
@@ -317,11 +335,6 @@ body {
 .c18 input[type="radio"].activate:checked ~ .square {
   left: -100%
 }
-
-
-
-
-
 
 // CHAVES
 .key{
@@ -360,18 +373,43 @@ body {
   z-index: 100;
   position: absolute;
   width: 80%;
-  left: 10%;
-  top: 10%;
+  left: 50%;
+  top: 50%;
   border-radius: 1rem;
   background-color: #313131;
   padding: 1rem;
+  transform: translate(-50%, -50%);
+  border: solid 1px #f0f8ff;
+
+  overflow: auto;
+  max-height: 80%;
 
   display: flex;
   flex-direction: column;
 
-  .content-img, .content-text {
-    margin-top: 1rem;
+  .popup-inner,
+  .content-img {
+    display: flex;
   }
+
+  .popup-inner {
+    position: relative;
+
+    .close-popup-button {
+      color: white;
+      position: absolute;
+      right: -8px;
+      font-size: 1.3rem;
+      padding: 0 8px;
+      cursor: pointer;
+      top: -8px;
+    }
+  }
+
+  .element-name {
+    text-align: center;
+  }
+
   .content-img {
     width: 40%;
     float:left;
@@ -397,15 +435,27 @@ body {
 }
 
 
-@media(max-width: 800px) {
+@media(max-width: 600px) {
   .popup {
     flex-direction: row;
+
+    .popup-inner {
+      flex-wrap: wrap;
+
+      .close-popup-button {
+        right: -14px;
+        top: -10px;
+        font-size: 1rem;
+      }
+    }
+
     .content-img {
-      width: 60%;
+      width: 100%;
       align-self: center;
     }
+
     .content-text {
-      width: 90%
+      width: 100%;
     }
   }
 }
